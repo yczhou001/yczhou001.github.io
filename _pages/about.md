@@ -24,7 +24,7 @@ Ensheng Shi, Yanlin Wang, [Wei Tao](#), Lun Du, Hongyu Zhang, Shi Han, Dongmei Z
 
 [pdf](#) [code](#to-appear)
 
-------
+______
 
 ### A Large-Scale Empirical Study of Commit Message Generation: Models, Datasets and Evaluation
 [Wei Tao](#), Yanlin Wang, Ensheng Shi, Lun Du, Shi Han, Hongyu Zhang, Dongmei Zhang, Wenqiang Zhang
