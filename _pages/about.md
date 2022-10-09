@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 Hello :) 
 
 I am a Ph.D. candidate at [Fudan University](https://www.fudan.edu.cn). My supervisor is [Dr. Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html) and thank him for his multi-faceted supports. Before going to Fudan, I received the B.S. degree in computer science from [East China Normal University](https://www.ecnu.edu.cn) at 2018. 
@@ -22,7 +23,7 @@ My research interests include **Code Intelligence** and **Natural Language Gener
 Ensheng Shi, Yanlin Wang, [Wei Tao](#), Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun
 
 [pdf](#) [code](#to-appear)
-------
+
 
 ### A Large-Scale Empirical Study of Commit Message Generation: Models, Datasets and Evaluation
 *Empirical Software Engineering (EMSE), 2022*
@@ -30,7 +31,7 @@ Ensheng Shi, Yanlin Wang, [Wei Tao](#), Lun Du, Hongyu Zhang, Shi Han, Dongmei Z
 [Wei Tao](#), Yanlin Wang, Ensheng Shi, Lun Du, Shi Han, Hongyu Zhang, Dongmei Zhang, Wenqiang Zhang
 
 [pdf](#) [code](#to-appear)
-------
+
 
 ### A Systematic Review on Affective Computing: Emotion Models, Databases, and Recent Advances
 *Information Fusion, 2022*
@@ -38,7 +39,7 @@ Ensheng Shi, Yanlin Wang, [Wei Tao](#), Lun Du, Hongyu Zhang, Shi Han, Dongmei Z
 Yan Wang, Wei Song, [Wei Tao](#), Antonio Liotta, Dawei Yang, Xinlei Li, Shuyong Gao, Yixuan Sun, Weifeng Ge, Wei Zhang, Wenqiang Zhang
 
 [pdf](https://doi.org/10.1016/j.inffus.2022.03.009)
-------
+
 
 ### Type-Aware Medical Visual Question Answering
 *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022*
@@ -46,7 +47,7 @@ Yan Wang, Wei Song, [Wei Tao](#), Antonio Liotta, Dawei Yang, Xinlei Li, Shuyong
 Anda Zhang, [Wei Tao](#), Ziyan Li, Haofen Wang, Wenqiang Zhang
 
 [pdf](https://ieeexplore.ieee.org/abstract/document/9747087)
-------
+
 
 ### On the Evaluation of Commit Message Generation Models: An Experimental Study
 *IEEE International Conference on Software Maintenance and Evolution (ICSME), 2021*
@@ -54,7 +55,7 @@ Anda Zhang, [Wei Tao](#), Ziyan Li, Haofen Wang, Wenqiang Zhang
 [Wei Tao](#), Yanlin Wang, Ensheng Shi, Lun Du, Shi Han, Hongyu Zhang, Dongmei Zhang, Wenqiang Zhang
 
 [pdf](https://doi.org/10.1109/ICSME52107.2021.00018) [code](https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical)
-------
+
 
 ### Triple Sequence Generative Adversarial Nets for Unsupervised Image Captioning
 *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021*
@@ -62,7 +63,7 @@ Anda Zhang, [Wei Tao](#), Ziyan Li, Haofen Wang, Wenqiang Zhang
 Yucheng Zhou, [Wei Tao](#), Wenqiang Zhang
 
 [pdf](https://ieeexplore.ieee.org/abstract/document/9414335)
-------
+
 
 Getting started
 ======
