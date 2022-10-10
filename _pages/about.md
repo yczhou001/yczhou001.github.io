@@ -60,7 +60,7 @@ Anda Zhang, [Wei Tao](#), Ziyan Li, Haofen Wang, Wenqiang Zhang
 [[pdf](https://doi.org/10.1109/ICSME52107.2021.00018)] [[code](https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical)]
 
 
-### Triple Sequence Generative Adversarial Nets for Unsupervised Image Captioning
+### [Triple Sequence Generative Adversarial Nets for Unsupervised Image Captioning](./publication/icassp-2021)
 Yucheng Zhou, [Wei Tao](#), Wenqiang Zhang
 
 *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021*
