@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my academic page:)"
+title: "Welcome to my academic page :)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 
-Hello :) 
+Hello :blush:
 
 I am a Ph.D. candidate at [Fudan University](https://www.fudan.edu.cn). My supervisor is [Dr. Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html) and thank him for his multi-faceted supports. Before going to Fudan, I received the B.S. degree in computer science from [East China Normal University](https://www.ecnu.edu.cn) at 2018. 
 
 My research interests include **Code Intelligence** and **Natural Language Generation**. The intersection of natural language processing and software engineering is my favorite area of research lately.
 
 
-## Publications
+## Publications :pencil:
 ### RACE: Retrieval-augmented Commit Message Generation
 
 Ensheng Shi, Yanlin Wang, [Wei Tao](#), Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun
@@ -45,6 +45,7 @@ Yan Wang, Wei Song, [Wei Tao](#), Antonio Liotta, Dawei Yang, Xinlei Li, Shuyong
 
 
 ### Type-Aware Medical Visual Question Answering
+
 Anda Zhang, [Wei Tao](#), Ziyan Li, Haofen Wang, Wenqiang Zhang
 
 *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022*
@@ -53,6 +54,7 @@ Anda Zhang, [Wei Tao](#), Ziyan Li, Haofen Wang, Wenqiang Zhang
 
 
 ### [On the Evaluation of Commit Message Generation Models: An Experimental Study](./publication/icsme-2021)
+
 [Wei Tao](#), Yanlin Wang, Ensheng Shi, Lun Du, Shi Han, Hongyu Zhang, Dongmei Zhang, Wenqiang Zhang
 
 *IEEE International Conference on Software Maintenance and Evolution (ICSME), 2021*
@@ -61,6 +63,7 @@ Anda Zhang, [Wei Tao](#), Ziyan Li, Haofen Wang, Wenqiang Zhang
 
 
 ### Triple Sequence Generative Adversarial Nets for Unsupervised Image Captioning
+
 Yucheng Zhou, [Wei Tao](#), Wenqiang Zhang
 
 *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021*
@@ -68,16 +71,16 @@ Yucheng Zhou, [Wei Tao](#), Wenqiang Zhang
 [[pdf](https://ieeexplore.ieee.org/abstract/document/9414335)]
 
 
-## Experiences
+## Experiences :briefcase:
 
 - 2020.11-2021.07 Research Intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)
 
-## Awards
+## Awards :sparkles:
 
-- 2019,2020,2021,2022 | 1st Class Scholarship at Fudan Univ.
-- 2020 | Excellent Student Cadre at Fudan Univ.
-- 2020 | Outstanding League Cadres at Fudan Univ.
-- 2019 | Merit Student at Fudan Univ.
-- 2018 | Outstanding Graduates at ECNU
-- 2018 | 2nd national prize at Chinese Undergraduate Computer Design Competition
-- 2015 | Outstanding Volunteer at ECNU
+- 1st Class Scholarship at Fudan Univ., in 2019,2020,2021,2022
+- Excellent Student Cadre at Fudan Univ., in 2020
+- Outstanding League Cadres at Fudan Univ., in 2020
+- Merit Student at Fudan Univ., in 2019
+- Outstanding Graduates at ECNU, in 2018
+- 2nd national prize at Chinese Undergraduate Computer Design Competition, in 2018
+- Outstanding Volunteer at ECNU, in 2015
