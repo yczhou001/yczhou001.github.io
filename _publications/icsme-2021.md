@@ -35,7 +35,7 @@ W. Tao et al., "On the Evaluation of Commit Message Generation Models: An Experi
 ### BibTex
 
 ```bibtex
-@inproceedings{DBLP:conf/icsm/TaoWSDH0ZZ21,
+@inproceedings{DBLP:conf/icsme/TaoWSDH0ZZ21,
   author    = {Wei Tao and
                Yanlin Wang and
                Ensheng Shi and
@@ -50,11 +50,7 @@ W. Tao et al., "On the Evaluation of Commit Message Generation Models: An Experi
                ICSME 2021, Luxembourg, September 27 - October 1, 2021},
   pages     = {126--136},
   year      = {2021},
-  crossref  = {DBLP:conf/icsm/2021},
   url       = {https://doi.org/10.1109/ICSME52107.2021.00018},
-  doi       = {10.1109/ICSME52107.2021.00018},
-  timestamp = {Thu, 14 Jul 2022 08:16:44 +0200},
-  biburl    = {https://dblp.org/rec/conf/icsm/TaoWSDH0ZZ21.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+  doi       = {10.1109/ICSME52107.2021.00018}
 }
 ```
