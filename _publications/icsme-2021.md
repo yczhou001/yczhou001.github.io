@@ -32,12 +32,12 @@ Commit messages are natural language descriptions of code changes, which are imp
 ### Plain Text
 
 ```markdown
-W. Tao et al., "On the Evaluation of Commit Message Generation Models: An Experimental Study," *2021 IEEE International Conference on Software Maintenance and Evolution (ICSME)*, 2021, pp. 126-136, doi: 10.1109/ICSME52107.2021.00018..
+W. Tao et al., "On the Evaluation of Commit Message Generation Models: An Experimental Study," 2021 IEEE International Conference on Software Maintenance and Evolution (ICSME), 2021, pp. 126-136, doi: 10.1109/ICSME52107.2021.00018..
 ```
 
 ### BibTex
 
-```tex
+```bibtex
 @inproceedings{DBLP:conf/icsm/TaoWSDH0ZZ21,
   author    = {Wei Tao and
                Yanlin Wang and
