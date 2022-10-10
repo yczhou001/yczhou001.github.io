@@ -16,7 +16,7 @@ I am a Ph.D. candidate at [Fudan University](https://www.fudan.edu.cn). My super
 My research interests include **Code Intelligence** and **Natural Language Generation**. The intersection of natural language processing and software engineering is my favorite area of research lately.
 
 
-## Publications :pencil:
+## Publications <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
 ### RACE: Retrieval-augmented Commit Message Generation
 
 Ensheng Shi, Yanlin Wang, <u>Wei Tao</u>, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun
@@ -71,11 +71,11 @@ Yucheng Zhou, <u>Wei Tao</u>, Wenqiang Zhang
 [[pdf](https://ieeexplore.ieee.org/abstract/document/9414335)]
 
 
-## Experiences :briefcase:
+## Experiences <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji>
 
 - 2020.11-2021.07 Research Intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)
 
-## Awards :sparkles:
+## Awards <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
 
 - 1st Class Scholarship at Fudan Univ., in 2019,2020,2021,2022
 - Excellent Student Cadre at Fudan Univ., in 2020
