@@ -52,7 +52,7 @@ Anda Zhang, [Wei Tao](#), Ziyan Li, Haofen Wang, Wenqiang Zhang
 [[pdf](https://ieeexplore.ieee.org/abstract/document/9747087)]
 
 
-### On the Evaluation of Commit Message Generation Models: An Experimental Study
+### [On the Evaluation of Commit Message Generation Models: An Experimental Study](./publication/icsme-2021)
 [Wei Tao](#), Yanlin Wang, Ensheng Shi, Lun Du, Shi Han, Hongyu Zhang, Dongmei Zhang, Wenqiang Zhang
 
 *IEEE International Conference on Software Maintenance and Evolution (ICSME), 2021*
@@ -60,7 +60,7 @@ Anda Zhang, [Wei Tao](#), Ziyan Li, Haofen Wang, Wenqiang Zhang
 [[pdf](https://doi.org/10.1109/ICSME52107.2021.00018)] [[code](https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical)]
 
 
-### [Triple Sequence Generative Adversarial Nets for Unsupervised Image Captioning](./publication/icassp-2021)
+### Triple Sequence Generative Adversarial Nets for Unsupervised Image Captioning
 Yucheng Zhou, [Wei Tao](#), Wenqiang Zhang
 
 *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021*
