@@ -18,22 +18,25 @@ My research interests include **Code Intelligence** and **Natural Language Gener
 
 ## Publications
 ### RACE: Retrieval-augmented Commit Message Generation
+
 Ensheng Shi, Yanlin Wang, [Wei Tao](#), Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun
 
 *Empirical Methods in Natural Language Processing (EMNLP), 2022*
 
-[[pdf](#)] [[code](#to-appear)]
+[[pdf](#to-appear)] [[code](#to-appear)]
 
 
 ### A Large-Scale Empirical Study of Commit Message Generation: Models, Datasets and Evaluation
+
 [Wei Tao](#), Yanlin Wang, Ensheng Shi, Lun Du, Shi Han, Hongyu Zhang, Dongmei Zhang, Wenqiang Zhang
 
 *Empirical Software Engineering (EMSE), 2022*
 
-[[pdf](#)] [[code](#to-appear)]
+[[pdf](#to-appear)] [[code](#to-appear)]
 
 
 ### A Systematic Review on Affective Computing: Emotion Models, Databases, and Recent Advances
+
 Yan Wang, Wei Song, [Wei Tao](#), Antonio Liotta, Dawei Yang, Xinlei Li, Shuyong Gao, Yixuan Sun, Weifeng Ge, Wei Zhang, Wenqiang Zhang
 
 *Information Fusion, 2022*
