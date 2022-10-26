@@ -23,7 +23,7 @@ Ensheng Shi, Yanlin Wang, <u>Wei Tao</u>, Lun Du, Hongyu Zhang, Shi Han, Dongmei
 
 *Empirical Methods in Natural Language Processing (EMNLP), 2022*
 
-[[pdf](#to-appear)] [[code](#to-appear)]
+[[pdf](https://arxiv.org/abs/2203.02700)] [[code](https://github.com/DeepSoftwareAnalytics/RACE)]
 
 
 ### [A Large-Scale Empirical Study of Commit Message Generation: Models, Datasets and Evaluation](./publication/emse-2022)
@@ -32,7 +32,7 @@ Ensheng Shi, Yanlin Wang, <u>Wei Tao</u>, Lun Du, Hongyu Zhang, Shi Han, Dongmei
 
 *Empirical Software Engineering (EMSE), 2022*
 
-[[pdf](#to-appear)] [[code](#to-appear)]
+[[pdf](https://link.springer.com/article/10.1007/s10664-022-10219-1)] [[code](https://github.com/DeepSoftwareAnalytics/CommitMsgEmpirical)]
 
 
 ### A Systematic Review on Affective Computing: Emotion Models, Databases, and Recent Advances
