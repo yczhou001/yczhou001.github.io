@@ -50,7 +50,7 @@ Anda Zhang, <u>Wei Tao</u>, Ziyan Li, Haofen Wang, Wenqiang Zhang
 
 *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022*
 
-[[pdf](https://ieeexplore.ieee.org/abstract/document/9747087)]
+[[pdf](https://ieeexplore.ieee.org/abstract/document/9747087)] [[code](https://github.com/Dbassqwer/MedVQA_FITS)]
 
 
 ### [On the Evaluation of Commit Message Generation Models: An Experimental Study](./publication/icsme-2021)
