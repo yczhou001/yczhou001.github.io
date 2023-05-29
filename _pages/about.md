@@ -13,7 +13,7 @@ Hi <g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubass
 
 I am a Ph.D. student ....
 
-My research interests include **Code Intelligence** and **Natural Language Generation**. The intersection of natural language processing and software engineering is my favorite area of research lately.
+My research interests include **Natural Language Processing** and **Computer Vision**. 
 
 
 ## Publications <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
@@ -75,12 +75,3 @@ Yucheng Zhou, <u>Yucheng Zhou</u>, Wenqiang Zhang
 
 - 2020.11-2021.07 Research Intern at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/)
 
-## Awards <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
-
-- 1st Class Scholarship at Fudan Univ., in 2019,2020,2021,2022
-- Excellent Student Cadre at Fudan Univ., in 2020
-- Outstanding League Cadres at Fudan Univ., in 2020
-- Merit Student at Fudan Univ., in 2019
-- Outstanding Graduates at ECNU, in 2018
-- 2nd national prize at Chinese Undergraduate Computer Design Competition, in 2018
-- Outstanding Volunteer at ECNU, in 2015
