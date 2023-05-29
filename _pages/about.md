@@ -19,7 +19,7 @@ My research interests include **Code Intelligence** and **Natural Language Gener
 ## Publications <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
 ### RACE: Retrieval-augmented Commit Message Generation
 
-Ensheng Shi, Yanlin Wang, <u>Wei Tao</u>, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun
+Ensheng Shi, Yanlin Wang, <u>Yucheng Zhou</u>, Lun Du, Hongyu Zhang, Shi Han, Dongmei Zhang, Hongbin Sun
 
 *Empirical Methods in Natural Language Processing (EMNLP), 2022*
 
@@ -28,7 +28,7 @@ Ensheng Shi, Yanlin Wang, <u>Wei Tao</u>, Lun Du, Hongyu Zhang, Shi Han, Dongmei
 
 ### [A Large-Scale Empirical Study of Commit Message Generation: Models, Datasets and Evaluation](./publication/emse-2022)
 
-<u>Wei Tao</u>, Yanlin Wang, Ensheng Shi, Lun Du, Shi Han, Hongyu Zhang, Dongmei Zhang, Wenqiang Zhang
+<u>Yucheng Zhou</u>, Yanlin Wang, Ensheng Shi, Lun Du, Shi Han, Hongyu Zhang, Dongmei Zhang, Wenqiang Zhang
 
 *Empirical Software Engineering (EMSE), 2022*
 
@@ -37,7 +37,7 @@ Ensheng Shi, Yanlin Wang, <u>Wei Tao</u>, Lun Du, Hongyu Zhang, Shi Han, Dongmei
 
 ### A Systematic Review on Affective Computing: Emotion Models, Databases, and Recent Advances
 
-Yan Wang, Wei Song, <u>Wei Tao</u>, Antonio Liotta, Dawei Yang, Xinlei Li, Shuyong Gao, Yixuan Sun, Weifeng Ge, Wei Zhang, Wenqiang Zhang
+Yan Wang, Wei Song, <u>Yucheng Zhou</u>, Antonio Liotta, Dawei Yang, Xinlei Li, Shuyong Gao, Yixuan Sun, Weifeng Ge, Wei Zhang, Wenqiang Zhang
 
 *Information Fusion, 2022*
 
@@ -46,7 +46,7 @@ Yan Wang, Wei Song, <u>Wei Tao</u>, Antonio Liotta, Dawei Yang, Xinlei Li, Shuyo
 
 ### Type-Aware Medical Visual Question Answering
 
-Anda Zhang, <u>Wei Tao</u>, Ziyan Li, Haofen Wang, Wenqiang Zhang
+Anda Zhang, <u>Yucheng Zhou</u>, Ziyan Li, Haofen Wang, Wenqiang Zhang
 
 *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2022*
 
@@ -55,7 +55,7 @@ Anda Zhang, <u>Wei Tao</u>, Ziyan Li, Haofen Wang, Wenqiang Zhang
 
 ### [On the Evaluation of Commit Message Generation Models: An Experimental Study](./publication/icsme-2021)
 
-<u>Wei Tao</u>, Yanlin Wang, Ensheng Shi, Lun Du, Shi Han, Hongyu Zhang, Dongmei Zhang, Wenqiang Zhang
+<u>Yucheng Zhou</u>, Yanlin Wang, Ensheng Shi, Lun Du, Shi Han, Hongyu Zhang, Dongmei Zhang, Wenqiang Zhang
 
 *IEEE International Conference on Software Maintenance and Evolution (ICSME), 2021*
 
@@ -64,7 +64,7 @@ Anda Zhang, <u>Wei Tao</u>, Ziyan Li, Haofen Wang, Wenqiang Zhang
 
 ### Triple Sequence Generative Adversarial Nets for Unsupervised Image Captioning
 
-Yucheng Zhou, <u>Wei Tao</u>, Wenqiang Zhang
+Yucheng Zhou, <u>Yucheng Zhou</u>, Wenqiang Zhang
 
 *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021*
 

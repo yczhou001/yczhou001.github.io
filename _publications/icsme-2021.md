@@ -46,7 +46,7 @@ W. Tao et al., "On the Evaluation of Commit Message Generation Models: An Experi
 
 ```bibtex
 @inproceedings{DBLP:conf/icsme/TaoWSDH0ZZ21,
-  author    = {Wei Tao and
+  author    = {Yucheng Zhou and
                Yanlin Wang and
                Ensheng Shi and
                Lun Du and
