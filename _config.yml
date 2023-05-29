@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wei Tao"
+title                    : "Yucheng Zhou"
 title_separator          : "-"
-name                     : &name "Wei Tao"
-description              : &description "Wei Tao's academic page"
-url                      : https://itaowei.github.io/academicpage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yucheng Zhou"
+description              : &description "Yucheng Zhou's academic page"
+url                      : https://yczhou001.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "itaowei/academicpage"
+repository               : "yczhou001/yczhou001.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wei Tao"
-  avatar           : "wt_22_profile.png"
-  bio              : "A Ph.D. candidate at Fudan Univ."
+  name             : "Yucheng Zhou"
+  avatar           : "yczhou.jpeg"
+  bio              : "A Ph.D. student"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=3RG4Lf4AAAAJ"
-  email            : "academic@itaowe.com"
+  googlescholar    : "https://scholar.google.com/citations?user=nnbFqRAAAAAJ"
+  email            : "yucheng.zhou.cs@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "itaowei"
+  github           : "yczhou001"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ACoAAA3L678BwMQnxVRN_Jfc-DynOmiNwK1Wxzo"
-  orcid            : "http://orcid.org/0000-0002-1800-1904"
+  linkedin         : #"ACoAAA3L678BwMQnxVRN_Jfc-DynOmiNwK1Wxzo"
+  orcid            : #"http://orcid.org/0000-0002-1800-1904"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
