@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hello <g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png">😊</g-emoji>
+Hi <g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png">😊</g-emoji>
 
 I am a Ph.D. candidate at [Fudan University](https://www.fudan.edu.cn). My supervisor is [Dr. Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html) and thank him for his multi-faceted supports. Before going to Fudan, I received the B.S. degree in computer science from [East China Normal University](https://www.ecnu.edu.cn) at 2018. 
 
