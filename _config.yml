@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Yucheng Zhou"
-title_separator          : "-"
+title_separator          : ""
 name                     : &name "Yucheng Zhou"
 description              : &description "Yucheng Zhou's academic page"
 url                      : https://yczhou001.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yucheng Zhou"
   avatar           : "yczhou.png"
-  bio              : "A Ph.D. student"
-  location         : "Shanghai, China"
+  bio              : "Ph.D. student at University of Macau"
+  location         : "Macau"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=nnbFqRAAAAAJ"
