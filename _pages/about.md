@@ -22,7 +22,7 @@ My research interests lie in **Large Language Model**, **Vision-and-Language**, 
 **Yucheng Zhou**, Tao Shen, Xiubo Geng, Chongyang Tao, Guodong Long, Can Xu, Daxin Jiang. Fine-Grained Distillation for Long Document Retrieval. ArXiv. ([pdf](https://arxiv.org/pdf/2212.10423.pdf)).
 
 ### <u>2023</u>
-**Yucheng Zhou**, Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, Guodong Long, Binxing Jiao, Daxin Jiang. Towards Robust Ranker for Text Retrieval. ACL 2023 Findings (CCF Rank A, [pdf](https://arxiv.org/pdf/2206.08063.pdf)).
+**Yucheng Zhou**, Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, Guodong Long, Binxing Jiao, Daxin Jiang. Towards Robust Ranker for Text Retrieval. ACL 2023 Findings (CCF Rank A, [pdf](https://arxiv.org/pdf/2206.08063.pdf), [code](https://huggingface.co/YCZhou/R2ANKER)).
 
 **Yucheng Zhou**, Guodong Long. Multimodal Event Transformer for Image-guided Story Ending Generation. EACL 2023 (CORE Rank A, [pdf](https://aclanthology.org/2023.eacl-main.249.pdf)).
 
