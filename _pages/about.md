@@ -55,8 +55,8 @@ Xiang Li, **Yucheng Zhou**. Disentangled and Robust Representation Learning for 
 
 ## Experiences <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji>
 
-- 2022.06 - present, Research Intern at [Microsoft](https://careers.microsoft.com/v2/global/en/locations/beijing.html)
-- 2020.05 - 2021.11, Research Intern at [Microsoft](https://careers.microsoft.com/v2/global/en/locations/beijing.html)
+- Jun. 2022 - Present, Research Intern at [Microsoft](https://careers.microsoft.com/v2/global/en/locations/beijing.html)
+- May 2020 - Nov.2021, Research Intern at [Microsoft](https://careers.microsoft.com/v2/global/en/locations/beijing.html)
 
 
 
@@ -72,3 +72,6 @@ ACL (2022-2023), ACM Multimedia (2022-2023), ACM KDD (2022-2023), EMNLP (2022-20
 
 - Journal Reviewer: 
 Neural Networks, ACM TALLIP 
+
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=Nnem6cnBKrTWlQflRw_36Uq6Iy-QmEldmoz6Wszl1xY&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
