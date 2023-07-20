@@ -71,7 +71,7 @@ IJCAI (2023)
 ACL (2022-2023), ACM Multimedia (2022-2023), ACM KDD (2022-2023), EMNLP (2022-2023), NAACL (2022), ACL Roling Review (2021-present), ECML-PKDD (2023), AISTATS (2023), ICTIR (2023), etc
 
 - Journal Reviewer: 
-Neural Networks, ACM TALLIP 
+Neural Networks, Expert Systems With Applications, ACM TALLIP 
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=Nnem6cnBKrTWlQflRw_36Uq6Iy-QmEldmoz6Wszl1xY&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
