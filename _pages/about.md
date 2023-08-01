@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a Ph.D. student at Department of Computer and Information Science, University of Macau, supervised by Prof. [Jianbing Shen](https://shenjianbing.github.io/). I am also a research intern at Microsoft, under the mentorship of Dr. [Xiubo Geng](https://xiubo0211.github.io/). In addition, I have research cooperation with A/Prof. [Guodong Long](https://guodonglong.github.io/) and Dr. [Tao Shen](https://taoshen58.github.io/) from the University of Technology Sydney. In the past, I received a master’s degree in computer science at Fudan University, supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html).
+Hello, I am a Ph.D. student at Vision and Learning Lab, Department of Computer and Information Science, University of Macau, supervised by Prof. [Jianbing Shen](https://shenjianbing.github.io/). I am also a research intern at Microsoft, under the mentorship of Dr. [Xiubo Geng](https://xiubo0211.github.io/). In addition, I have a close research collaboration with A/Prof. [Guodong Long](https://guodonglong.github.io/) and Dr. [Tao Shen](https://taoshen58.github.io/) from the University of Technology Sydney. In the past, I received a master’s degree in computer science at Fudan University, supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html).
 
 My research interests lie in **Large Language Model**, **Vision-and-Language**, and **Information Retrieval**.
 <!-- ## News <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> -->
