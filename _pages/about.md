@@ -68,7 +68,7 @@ Xiang Li, **Yucheng Zhou**. Disentangled and Robust Representation Learning for 
 IJCAI (2023) 
 
 - Conference PC Member/Reviewer: 
-ACL (2022-2023), ACM Multimedia (2022-2023), ACM KDD (2022-2023), EMNLP (2022-2023), NAACL (2022), ACL Roling Review (2021-present), ECML-PKDD (2023), AISTATS (2023), ICTIR (2023), etc
+ACL (2022-2023), ACM Multimedia (2022-2023), ACM KDD (2022-2023), AAAI (2024), EMNLP (2022-2023), NAACL (2022), ACL Roling Review (2021-present), ECML-PKDD (2023), AISTATS (2023), ICTIR (2023), etc
 
 - Journal Reviewer: 
 Neural Networks, Expert Systems With Applications, ACM TALLIP, etc
