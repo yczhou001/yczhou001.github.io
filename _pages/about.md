@@ -12,7 +12,7 @@ Hello, I am a Ph.D. student at Vision and Learning Lab, Department of Computer a
 
 My research interests lie in **Large Language Model**, **Vision-and-Language**, and **Information Retrieval**.
 <!-- ## News <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> -->
-
+<!-- timetable and other -->
 
 
 
@@ -74,4 +74,4 @@ ACL (2022-2023), ACM Multimedia (2022-2023), ACM KDD (2022-2023), AAAI (2024), E
 Neural Networks, Expert Systems With Applications, ACM TALLIP, etc
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=Nnem6cnBKrTWlQflRw_36Uq6Iy-QmEldmoz6Wszl1xY&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=tt&d=Nnem6cnBKrTWlQflRw_36Uq6Iy-QmEldmoz6Wszl1xY&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
