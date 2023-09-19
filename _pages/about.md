@@ -53,7 +53,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nn
 IJCAI (2023) 
 
 - Conference PC Member/Reviewer: 
-ACL (2022-2023), ACM Multimedia (2022-2023), ACM KDD (2022-2023), AAAI (2024), EMNLP (2022-2023), NAACL (2022), ACL Roling Review (2021-present), ECML-PKDD (2023), AISTATS (2023-2024), ICTIR (2023), etc
+ACL (2022-2023), ACM Multimedia (2022-2023), ACM KDD (2022-2023), AAAI (2024), EMNLP (2022-2023), NAACL (2022), ACL Roling Review (2021-present), ECML-PKDD (2023), AISTATS (2023-2024), ICASSP (2024), ICTIR (2023), etc
 
 - Journal Reviewer: 
 Neural Networks, IEEE Robotics and Automation Letters, Expert Systems With Applications, ACM TALLIP, etc
