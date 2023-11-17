@@ -16,9 +16,10 @@ My research interests lie in **Large Language Model**, **Vision-and-Language**, 
 
 
 
-
 ## Selected Publications <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
 Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nnbFqRAAAAAJ)
+
+**Yucheng Zhou**, Xiubo Geng, Tao Shen, Chongyang Tao, Guodong Long, Jian-Guang Lou, Jianbing Shen. Thread of Thought Unraveling Chaotic Contexts. arXiv 2023 ([pdf](https://arxiv.org/pdf/2311.08734.pdf)).
 
 **Yucheng Zhou**, Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, Guodong Long, Binxing Jiao, Daxin Jiang. Towards Robust Ranker for Text Retrieval. ACL 2023 Findings ([pdf](https://arxiv.org/pdf/2206.08063.pdf), [code](https://huggingface.co/YCZhou/R2ANKER)).
 
@@ -41,7 +42,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nn
 
 ## Experiences <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji>
 
-- Jun. 2022 - Present, Research Intern at [Microsoft](https://careers.microsoft.com/v2/global/en/locations/beijing.html)
+- Jun. 2022 - Nov.2023, Research Intern at [Microsoft](https://careers.microsoft.com/v2/global/en/locations/beijing.html)
 - May 2020 - Nov.2021, Research Intern at [Microsoft](https://careers.microsoft.com/v2/global/en/locations/beijing.html)
 
 
