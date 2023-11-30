@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a Ph.D. student at Vision and Learning Lab, Department of Computer and Information Science, University of Macau, supervised by Prof. [Jianbing Shen](https://shenjianbing.github.io/). I am also a research intern at Microsoft, under the mentorship of Dr. [Xiubo Geng](https://xiubo0211.github.io/). In addition, I have a close research collaboration with A/Prof. [Guodong Long](https://guodonglong.github.io/) and Dr. [Tao Shen](https://taoshen58.github.io/) from the University of Technology Sydney. In the past, I received a master’s degree in computer science at Fudan University, supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html).
+Hello, I am a Ph.D. student at Vision and Learning Lab, Department of Computer and Information Science, University of Macau, supervised by Prof. [Jianbing Shen](https://shenjianbing.github.io/). I also have a close research collaboration with Dr. [Xiubo Geng](https://xiubo0211.github.io/) from Microsoft and A/Prof. [Guodong Long](https://guodonglong.github.io/) and Dr. [Tao Shen](https://taoshen58.github.io/) from the University of Technology Sydney. In the past, I received a master’s degree in computer science at Fudan University, supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html).
 
-My research interests lie in **Large Language Model**, **Vision-and-Language**, and **Information Retrieval**.
+My research interests lie in **Large Language Model**, **Vision-and-Language**, **Information Retrieval** and **AI in Healthcare**.
 <!-- ## News <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> -->
 <!-- timetable and other -->
 
@@ -51,7 +51,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nn
 ## Professional Services <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
 
 - Conference Senior PC Member/Area Chair: 
-IJCAI (2023) 
+IJCAI (2023-2024) 
 
 - Conference PC Member/Reviewer: 
 ACL Roling Review (2021-present), ACL (2022-2023), ACM KDD (2022-2023), ACM Multimedia (2022-2023), AAAI (2024), EMNLP (2022-2023), NAACL (2022), ICASSP (2024), AISTATS (2023-2024), ECML-PKDD (2023), ICTIR (2023), etc
