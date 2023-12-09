@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a Ph.D. student at Vision and Learning Lab, Department of Computer and Information Science, University of Macau, supervised by Prof. [Jianbing Shen](https://shenjianbing.github.io/). I also have a close research collaboration with Dr. [Xiubo Geng](https://xiubo0211.github.io/) from Microsoft and A/Prof. [Guodong Long](https://guodonglong.github.io/) and Dr. [Tao Shen](https://taoshen58.github.io/) from the University of Technology Sydney. In the past, I received a master’s degree in computer science at Fudan University, supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html).
+Hello, I am a Ph.D. student at State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), Department of Computer and Information Science, University of Macau, supervised by Prof. [Jianbing Shen](https://shenjianbing.github.io/). I also have a close research collaboration with Dr. [Xiubo Geng](https://xiubo0211.github.io/) from Microsoft and A/Prof. [Guodong Long](https://guodonglong.github.io/) and Dr. [Tao Shen](https://taoshen58.github.io/) from the University of Technology Sydney. In the past, I received a master’s degree in computer science at Fudan University, supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html).
 
 My research interests lie in **Large Language Model**, **Vision-and-Language**, **Information Retrieval** and **AI in Healthcare**.
 <!-- ## News <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> -->
@@ -20,6 +20,8 @@ My research interests lie in **Large Language Model**, **Vision-and-Language**, 
 Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nnbFqRAAAAAJ)
 
 **Yucheng Zhou**, Xiubo Geng, Tao Shen, Chongyang Tao, Guodong Long, Jian-Guang Lou, Jianbing Shen. Thread of Thought Unraveling Chaotic Contexts. arXiv 2023 ([pdf](https://arxiv.org/pdf/2311.08734.pdf)).
+
+**Yucheng Zhou**, Tao Shen, Xiubo Geng, Chongyang Tao, Jianbing Shen, Guodong Long, Can Xu, Daxin Jiang. Fine-Grained Distillation for Long Document Retrieval. AAAI 2024 ([pdf](https://arxiv.org/pdf/2212.10423.pdf)).
 
 **Yucheng Zhou**, Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, Guodong Long, Binxing Jiao, Daxin Jiang. Towards Robust Ranker for Text Retrieval. ACL 2023 Findings ([pdf](https://arxiv.org/pdf/2206.08063.pdf), [code](https://huggingface.co/YCZhou/R2ANKER)).
 
