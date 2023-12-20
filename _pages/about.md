@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a Ph.D. student at State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), Department of Computer and Information Science, University of Macau, supervised by Prof. [Jianbing Shen](https://shenjianbing.github.io/). I also have a close research collaboration with Dr. [Xiubo Geng](https://xiubo0211.github.io/) from Microsoft and A/Prof. [Guodong Long](https://guodonglong.github.io/) and Dr. [Tao Shen](https://taoshen58.github.io/) from the University of Technology Sydney. In the past, I received a master’s degree in computer science at Fudan University, supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html).
+Hello, I am a Ph.D. student at State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), Department of Computer and Information Science, University of Macau, supervised by Prof. [Jianbing Shen](https://shenjianbing.github.io/). I am also a research intern at Shanghai AI Lab, under the mentorship of Prof. [Yu Cheng](https://ych133.github.io/). In addition, I have a close research collaboration with Dr. [Xiubo Geng](https://xiubo0211.github.io/) from Microsoft and A/Prof. [Guodong Long](https://guodonglong.github.io/) and Dr. [Tao Shen](https://taoshen58.github.io/) from the University of Technology Sydney. In the past, I received a master’s degree in computer science at Fudan University, supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html).
 
 My research interests lie in **Large Language Model**, **Vision-and-Language**, **Information Retrieval** and **AI in Healthcare**.
 <!-- ## News <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> -->
@@ -44,8 +44,9 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nn
 
 ## Experiences <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji>
 
-- Jun. 2022 - Nov.2023, Research Intern at [Microsoft](https://careers.microsoft.com/v2/global/en/locations/beijing.html)
-- May 2020 - Nov.2021, Research Intern at [Microsoft](https://careers.microsoft.com/v2/global/en/locations/beijing.html)
+- Dec 2023 - Present, Research Intern at [Shanghai AI Lab](https://www.shlab.org.cn/)
+- Jun 2022 - Nov 2023, Research Intern at [Microsoft](https://careers.microsoft.com/v2/global/en/locations/beijing.html)
+- May 2020 - Nov 2021, Research Intern at [Microsoft](https://careers.microsoft.com/v2/global/en/locations/beijing.html)
 
 
 
@@ -59,6 +60,6 @@ IJCAI (2023-2024)
 ACL Roling Review (2021-present), ACL (2022-2023), ACM KDD (2022-2023), ACM Multimedia (2022-2023), AAAI (2024), EMNLP (2022-2023), NAACL (2022), ICASSP (2024), AISTATS (2023-2024), ECML-PKDD (2023), ICTIR (2023), etc
 
 - Journal Reviewer: 
-Neural Networks, IEEE Robotics and Automation Letters, Expert Systems With Applications, ACM TALLIP, etc
+Neural Networks, Information Fusion, IEEE Robotics and Automation Letters, Expert Systems With Applications, ACM TALLIP, etc
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=tt&d=Nnem6cnBKrTWlQflRw_36Uq6Iy-QmEldmoz6Wszl1xY&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
