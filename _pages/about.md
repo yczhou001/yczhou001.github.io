@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a Ph.D. student at State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), Department of Computer and Information Science, University of Macau, supervised by Prof. [Jianbing Shen](https://shenjianbing.github.io/). I am also a research intern at Shanghai AI Lab, under the mentorship of Prof. [Yu Cheng](https://ych133.github.io/). In addition, I have a close research collaboration with Dr. [Xiubo Geng](https://xiubo0211.github.io/) from Microsoft and A/Prof. [Guodong Long](https://guodonglong.github.io/) and Dr. [Tao Shen](https://taoshen58.github.io/) from the University of Technology Sydney. In the past, I received a master’s degree in computer science at Fudan University, supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html).
+Hello, I am a Ph.D. student at State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), Department of Computer and Information Science, University of Macau, supervised by Prof. [Jianbing Shen](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en). I am also a research intern at Shanghai AI Lab, under the mentorship of Prof. [Yu Cheng](https://ych133.github.io/). In addition, I have a close research collaboration with Dr. [Xiubo Geng](https://xiubo0211.github.io/) from Microsoft, A/Prof. [Guodong Long](https://scholar.google.com/citations?user=Pl8m7hMAAAAJ&hl=en) from the University of Technology Sydney and Dr. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en) from Oracle. In the past, I received a master’s degree in computer science at Fudan University, supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html).
 
-My research interests lie in **Large Language Model**, **Vision-and-Language**, **Information Retrieval** and **AI in Healthcare**.
+My research interests lie in **Foundation Model**, **Superalignment**, **Vision and Language**, **Information Retrieval** and **Healthcare AI**.
 <!-- ## News <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> -->
 <!-- timetable and other -->
 
@@ -19,7 +19,11 @@ My research interests lie in **Large Language Model**, **Vision-and-Language**, 
 ## Selected Publications <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
 Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nnbFqRAAAAAJ)
 
+**Yucheng Zhou**, Xiang Li, Qianning Wang, Jianbing Shen. Visual In-Context Learning for Large Vision-Language Models. arXiv 2024 ([pdf](https://arxiv.org/pdf/2402.11574.pdf)).
+
 **Yucheng Zhou**, Xiubo Geng, Tao Shen, Chongyang Tao, Guodong Long, Jian-Guang Lou, Jianbing Shen. Thread of Thought Unraveling Chaotic Contexts. arXiv 2023 ([pdf](https://arxiv.org/pdf/2311.08734.pdf)).
+
+Wei Tao, **Yucheng Zhou**, Yanlin Wang, Hongyu Zhang, Haofen Wang, Wenqiang Zhang. KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation. ACM TOSEM 2024 ([pdf](https://dl.acm.org/doi/pdf/10.1145/3643675)).
 
 **Yucheng Zhou**, Tao Shen, Xiubo Geng, Chongyang Tao, Jianbing Shen, Guodong Long, Can Xu, Daxin Jiang. Fine-Grained Distillation for Long Document Retrieval. AAAI 2024 ([pdf](https://arxiv.org/pdf/2212.10423.pdf)).
 
@@ -57,9 +61,9 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nn
 IJCAI (2023-2024) 
 
 - Conference PC Member/Reviewer: 
-ACL Roling Review (2021-present), ACL (2022-2023), ACM KDD (2022-2023), ACM Multimedia (2022-2023), AAAI (2024), EMNLP (2022-2023), NAACL (2022), ICASSP (2024), AISTATS (2023-2024), ECML-PKDD (2023), ICTIR (2023), etc
+ACL Roling Review (2021-present), ACL (2022-2024), ACM KDD (2022-2024), ACM Multimedia (2022-2024), AAAI (2024), ECCV (2024), EMNLP (2022-2023), NAACL (2022,2024), EACL (2024), ICASSP (2024), AISTATS (2023-2024), ADMA (2021-2024) etc
 
 - Journal Reviewer: 
-Neural Networks, Information Fusion, IEEE Robotics and Automation Letters, Expert Systems With Applications, ACM TALLIP, etc
+Pattern Recognition, Neural Networks, Information Fusion, IEEE Robotics and Automation Letters, Expert Systems With Applications, ACM TALLIP, etc
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=tt&d=Nnem6cnBKrTWlQflRw_36Uq6Iy-QmEldmoz6Wszl1xY&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
