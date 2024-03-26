@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, I am a Ph.D. student at State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), Department of Computer and Information Science, University of Macau, supervised by Prof. [Jianbing Shen](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en). I am also a research intern at Shanghai AI Lab, under the mentorship of Prof. [Yu Cheng](https://ych133.github.io/). In addition, I have a close research collaboration with Dr. [Xiubo Geng](https://xiubo0211.github.io/) from Microsoft, A/Prof. [Guodong Long](https://scholar.google.com/citations?user=Pl8m7hMAAAAJ&hl=en) from the University of Technology Sydney and Dr. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en) from Oracle. In the past, I received a master’s degree in computer science at Fudan University, supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html).
 
-My research interests lie in **Foundation Model**, **Superalignment**, **Vision and Language**, **Information Retrieval** and **Healthcare AI**.
+My research interests lie in **Machine Learning**, **Large Language Model**, **Vision and Language**, and **Healthcare AI**.
 <!-- ## News <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> -->
 <!-- timetable and other -->
 
@@ -23,7 +23,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nn
 
 **Yucheng Zhou**, Xiubo Geng, Tao Shen, Chongyang Tao, Guodong Long, Jian-Guang Lou, Jianbing Shen. Thread of Thought Unraveling Chaotic Contexts. arXiv 2023 ([pdf](https://arxiv.org/pdf/2311.08734.pdf)).
 
-Wei Tao, **Yucheng Zhou**, Yanlin Wang, Hongyu Zhang, Haofen Wang, Wenqiang Zhang. KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation. ACM TOSEM 2024 ([pdf](https://dl.acm.org/doi/pdf/10.1145/3643675)).
+Wei Tao, **Yucheng Zhou**, Yanlin Wang, Hongyu Zhang, Haofen Wang, Wenqiang Zhang. KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation. ACM TOSEM 2024 ([pdf](https://dl.acm.org/doi/pdf/10.1145/3643675), [code](https://github.com/deepsoftwareanalytics/kadel)).
 
 **Yucheng Zhou**, Tao Shen, Xiubo Geng, Chongyang Tao, Jianbing Shen, Guodong Long, Can Xu, Daxin Jiang. Fine-Grained Distillation for Long Document Retrieval. AAAI 2024 ([pdf](https://arxiv.org/pdf/2212.10423.pdf)).
 
@@ -61,9 +61,9 @@ Wei Tao, **Yucheng Zhou**, Yanlin Wang, Hongyu Zhang, Haofen Wang, Wenqiang Zhan
 IJCAI (2023-2024) 
 
 - Conference PC Member/Reviewer: 
-ACL Roling Review (2021-present), ACL (2022-2024), ACM KDD (2022-2024), ACM Multimedia (2022-2024), AAAI (2024), ECCV (2024), EMNLP (2022-2023), NAACL (2022,2024), EACL (2024), ICASSP (2024), AISTATS (2023-2024), ADMA (2021-2024) etc
+ACL Roling Review (2021-present), ACL (2022-2024), ACM KDD (2022-2024), ACM Multimedia (2022-2024), AAAI (2024), ECCV (2024), EMNLP (2022-2023), NAACL (2022,2024), EACL (2024), ECML-PKDD (2023-2024), ICASSP (2024), AISTATS (2023-2024), ADMA (2021-2024), etc
 
 - Journal Reviewer: 
-Pattern Recognition, Neural Networks, Information Fusion, IEEE Robotics and Automation Letters, Expert Systems With Applications, ACM TALLIP, etc
+Pattern Recognition, Neural Networks, Information Fusion, IEEE Robotics and Automation Letters, Expert Systems With Applications, Neurocomputing, etc
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=tt&d=Nnem6cnBKrTWlQflRw_36Uq6Iy-QmEldmoz6Wszl1xY&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
