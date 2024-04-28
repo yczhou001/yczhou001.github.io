@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a Ph.D. student at State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), Department of Computer and Information Science, University of Macau, supervised by Prof. [Jianbing Shen](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en). I am also a research intern at Shanghai AI Lab, under the mentorship of Prof. [Yu Cheng](https://ych133.github.io/). In addition, I have a close research collaboration with Dr. [Xiubo Geng](https://xiubo0211.github.io/) from Microsoft, A/Prof. [Guodong Long](https://scholar.google.com/citations?user=Pl8m7hMAAAAJ&hl=en) from the University of Technology Sydney and Dr. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en) from Oracle. In the past, I received a master’s degree in computer science at Fudan University, supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html).
+Hello, I am currently pursuing a Ph.D. in computer science at the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), University of Macau, under the supervision of Prof. [Jianbing Shen](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en). Concurrently, I am serving as a research intern at Shanghai AI Lab, mentored by Prof. [Yu Cheng](https://ych133.github.io/). I have the privilege of research collaborating with Dr. [Xiubo Geng](https://xiubo0211.github.io/) from Microsoft, A/Prof. [Guodong Long](https://guodonglong.github.io/) from the University of Technology Sydney, and Dr. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en) from Oracle in previous research projects. I earned my master's degree in computer science at Fudan University, where I was supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html).
 
-My research interests lie in **Machine Learning**, **Large Language Model**, **Vision and Language**, and **Healthcare AI**.
+My research interests lie in **Artificial Intelligence**, **Machine Learning**, **Natural Language Processing**, and **Information Retrieval**.
 <!-- ## News <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> -->
 <!-- timetable and other -->
 
@@ -50,9 +50,8 @@ Wei Tao, **Yucheng Zhou**, Yanlin Wang, Hongyu Zhang, Haofen Wang, Wenqiang Zhan
 
 ## Experiences <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji>
 
-- Dec 2023 - Present, Research Intern at [Shanghai AI Lab](https://www.shlab.org.cn/)
-- Jun 2022 - Nov 2023, Research Intern at [Microsoft](https://careers.microsoft.com/v2/global/en/locations/beijing.html)
-- May 2020 - Nov 2021, Research Intern at [Microsoft](https://careers.microsoft.com/v2/global/en/locations/beijing.html)
+- 2023 - Present, at [Shanghai AI Lab](https://www.shlab.org.cn/)
+- 2020 - 2023, at [Microsoft](https://careers.microsoft.com/v2/global/en/locations/beijing.html)
 
 
 
