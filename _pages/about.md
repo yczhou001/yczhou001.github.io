@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, I am currently pursuing a Ph.D. in computer science at the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), University of Macau, under the supervision of Prof. [Jianbing Shen](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en). Concurrently, I am a research intern at Shanghai AI Lab, mentored by Prof. [Yu Cheng](https://ych133.github.io/). In the past, I had the opportunity to collaborate on research with Dr. [Xiubo Geng](https://xiubo0211.github.io/) from Microsoft, A/Prof. [Guodong Long](https://guodonglong.github.io/) from the University of Technology Sydney, and Dr. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en) from Oracle. I earned my master's degree in computer science at Fudan University, supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html).
 
-My research interests lie in **Machine Learning**, **Large Language Model**, and **Vision and Language**.
+My research interests lie in **Machine Learning**, **Natural Language Processing**, and **Vision and Language**.
 <!-- ## News <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> -->
 <!-- timetable and other -->
 
@@ -58,7 +58,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nn
 IJCAI (2023-2024) 
 
 - Conference PC Member/Reviewer: 
-ACL Roling Review (2021-present), NeurIPS (2024), ACL (2022-2024), ACM KDD (2022-2024), ACM Multimedia (2022-2024), AAAI (2024), ECCV (2024), EMNLP (2022-2023), NAACL (2022,2024), EACL (2024), ICWSM (2024), ECML-PKDD (2023-2024), ICASSP (2024), AISTATS (2023-2024), etc
+ACL Roling Review (2021-present), NeurIPS (2024), ACL (2022-2024), ACM KDD (2022-2024), ACM Multimedia (2022-2024), AAAI (2024-2025), ECCV (2024), EMNLP (2022-2023), NAACL (2022,2024), EACL (2024), ICWSM (2024), ECML-PKDD (2023-2024), ICASSP (2024), AISTATS (2023-2024), etc
 
 - Journal Reviewer: 
 Neural Networks, Information Fusion, Pattern Recognition, Knowledge-Based Systems, Expert Systems With Applications, IEEE Robotics and Automation Letters, Neurocomputing, etc
