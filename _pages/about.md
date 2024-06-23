@@ -8,9 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am currently pursuing a Ph.D. in computer science at the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), University of Macau, under the supervision of Prof. [Jianbing Shen](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en). Concurrently, I am a research intern at Shanghai AI Lab, mentored by Prof. [Yu Cheng](https://ych133.github.io/). In the past, I had the opportunity to collaborate on research with Dr. [Xiubo Geng](https://xiubo0211.github.io/) from Microsoft, A/Prof. [Guodong Long](https://guodonglong.github.io/) from the University of Technology Sydney, and Dr. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en) from Oracle. I earned my master's degree in computer science at Fudan University, supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html).
+Hello, I am currently pursuing a Ph.D. in computer science at the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), University of Macau, under the supervision of Prof. [Jianbing Shen](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en). Concurrently, I am a research intern at Shanghai AI Lab, mentored by Prof. [Yu Cheng](https://ych133.github.io/). In the past, I had the opportunity to collaborate on research with Dr. [Xiubo Geng](https://xiubo0211.github.io/) from Microsoft, Prof. [Guodong Long](https://guodonglong.github.io/) from the University of Technology Sydney, and Dr. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en) from Oracle. I earned my master's degree in computer science at Fudan University, supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html).
 
-My research interests lie in **Machine Learning**, **Natural Language Processing**, and **Vision and Language**.
+My research centers on **Machine Learning**, **Natural Language Processing**, and **Vision and Language**. The overarching goal of my work is to advance machine intelligence to serve humanity and assist in exploring the world together. My research pursuits have involved the analysis, training, medical applications, and forward-looking of Large Language Models. Additionally, I am engaged in research on video generation leveraging large language models, aiming to enhance their understanding and generation capabilities within our visual world.
+
+I am always open to research discussions and collaborations.
+
+
+
 <!-- ## News <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> -->
 <!-- timetable and other -->
 
