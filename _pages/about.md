@@ -12,7 +12,7 @@ Hello, I am currently pursuing a Ph.D. in computer science at the State Key Labo
 
 My research centers on **Machine Learning**, **Natural Language Processing**, and **Vision and Language**. The overarching goal of my work is to advance machine intelligence to serve humanity and assist in exploring the world together. My research pursuits have involved the analysis, training, medical applications, and forward-looking of Large Language Models. Additionally, I am engaged in research on video generation leveraging large language models, aiming to enhance their understanding and generation capabilities within our visual world.
 
-I am always open to research discussions and collaborations.
+I am always open for research discussions and collaborations.
 
 
 
@@ -24,7 +24,7 @@ I am always open to research discussions and collaborations.
 ## Selected Publications <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
 Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nnbFqRAAAAAJ)
 
-**Yucheng Zhou**, Xiubo Geng, Tao Shen, Chongyang Tao, Guodong Long, Jian-Guang Lou, Jianbing Shen. Thread of Thought Unraveling Chaotic Contexts. arXiv 2023 ([pdf](https://arxiv.org/pdf/2311.08734.pdf)).
+**Yucheng Zhou**, Xiubo Geng, Tao Shen, Chongyang Tao, Guodong Long, Jian-Guang Lou, Jianbing Shen. Thread of Thought Unraveling Chaotic Contexts. arXiv ([pdf](https://arxiv.org/pdf/2311.08734.pdf)).
 
 **Yucheng Zhou**, Xiang Li, Qianning Wang, Jianbing Shen. Visual In-Context Learning for Large Vision-Language Models. ACL 2024 ([pdf](https://arxiv.org/pdf/2402.11574.pdf)).
 
@@ -63,9 +63,9 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nn
 IJCAI (2023-2024) 
 
 - Conference PC Member/Reviewer: 
-ACL Roling Review (2021-present), NeurIPS (2024), ACL (2022-2024), ACM KDD (2022-2024), ACM Multimedia (2022-2024), AAAI (2024-2025), ECCV (2024), EMNLP (2022-2023), NAACL (2022,2024), EACL (2024), ICWSM (2024), ECML-PKDD (2023-2024), ICASSP (2024), AISTATS (2023-2024), etc
+ACL Roling Review (2021-present), NeurIPS (2024), ACL (2022-2024), ACM KDD (2022-2024), ACM Multimedia (2022-2024), AAAI (2024-2025), ECCV (2024), EMNLP (2022-2024), NAACL (2022,2024), EACL (2024), ICWSM (2024), ECML-PKDD (2023-2024), ICASSP (2024), AISTATS (2023-2024), etc
 
 - Journal Reviewer: 
 Neural Networks, Information Fusion, Pattern Recognition, Knowledge-Based Systems, Expert Systems With Applications, IEEE Robotics and Automation Letters, Neurocomputing, etc
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=tt&d=Nnem6cnBKrTWlQflRw_36Uq6Iy-QmEldmoz6Wszl1xY&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=m&d=Nnem6cnBKrTWlQflRw_36Uq6Iy-QmEldmoz6Wszl1xY'></script>
