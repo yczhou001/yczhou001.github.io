@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am currently pursuing a Ph.D. in computer science at the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), University of Macau, under the supervision of Prof. [Jianbing Shen](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en). Concurrently, I am a research intern at Shanghai AI Lab, mentored by Prof. [Yu Cheng](https://ych133.github.io/). In the past, I had the opportunity to collaborate on research with Dr. [Xiubo Geng](https://xiubo0211.github.io/) from Microsoft, Prof. [Guodong Long](https://guodonglong.github.io/) from the University of Technology Sydney, and Dr. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en) from Oracle. I earned my master's degree in computer science at Fudan University, supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html).
+Hello, I am currently pursuing a Ph.D. in computer science at the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), University of Macau, under the supervision of Prof. [Jianbing Shen](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en). Concurrently, I am a research intern at Shanghai AI Lab, mentored by Prof. [Yu Cheng](https://ych133.github.io/). I completed my master's degree from Fudan University, supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html). Throughout my academic journey, I have been fortunate to collaborate with Dr. [Xiubo Geng](https://xiubo0211.github.io/) from Microsoft, Prof. [Guodong Long](https://guodonglong.github.io/) from the University of Technology Sydney, and Dr. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en) from Oracle.
 
 My research centers on **Machine Learning**, **Natural Language Processing**, and **Vision and Language**. The overarching goal of my work is to advance machine intelligence to serve humanity and assist in exploring the world together. My research pursuits have involved the analysis, training, medical applications, and forward-looking of Large Language Models. Additionally, I am engaged in research on video generation leveraging large language models, aiming to enhance their understanding and generation capabilities within our visual world.
 
@@ -61,7 +61,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nn
 IJCAI (2023-2024) 
 
 - Conference PC Member/Reviewer: 
-ACL Roling Review (2021-present), NeurIPS (2024), ACL (2022-2024), ACM KDD (2022-2024), ACM Multimedia (2022-2024), AAAI (2024-2025), ECCV (2024), EMNLP (2022-2024), NAACL (2022,2024), EACL (2024), ICWSM (2024), ECML-PKDD (2023-2024), ICASSP (2024), AISTATS (2023-2024), etc
+ACL Roling Review (2021-present), NeurIPS (2024), ICLR (2025), ACL (2022-2024), ACM KDD (2022-2024), ACM Multimedia (2022-2024), AAAI (2024-2025), ECCV (2024), EMNLP (2022-2024), NAACL (2022,2024), EACL (2024), ICWSM (2024-2025), ECML-PKDD (2023-2024), ICASSP (2024-2025), AISTATS (2023-2025), etc
 
 - Journal Reviewer: 
 Neural Networks, Information Fusion, Pattern Recognition, Knowledge-Based Systems, Expert Systems With Applications, IEEE Robotics and Automation Letters, Neurocomputing, etc
