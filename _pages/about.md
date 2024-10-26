@@ -24,8 +24,6 @@ I am always open for research discussions and collaborations.
 ## Selected Publications <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
 Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nnbFqRAAAAAJ)
 
-**Yucheng Zhou**, Xiubo Geng, Tao Shen, Chongyang Tao, Guodong Long, Jian-Guang Lou, Jianbing Shen. Thread of Thought Unraveling Chaotic Contexts. arXiv ([pdf](https://arxiv.org/pdf/2311.08734.pdf)).
-
 **Yucheng Zhou**, Xiang Li, Qianning Wang, Jianbing Shen. Visual In-Context Learning for Large Vision-Language Models. ACL 2024 ([pdf](https://arxiv.org/pdf/2402.11574.pdf)).
 
 **Yucheng Zhou**, Tao Shen, Xiubo Geng, Chongyang Tao, Jianbing Shen, Guodong Long, Can Xu, Daxin Jiang. Fine-Grained Distillation for Long Document Retrieval. AAAI 2024 ([pdf](https://arxiv.org/pdf/2212.10423.pdf)).
