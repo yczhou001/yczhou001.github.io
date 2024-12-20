@@ -55,15 +55,22 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nn
 
 
 
-## Professional Services <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>
+## Professional Services <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f58a.png?v8">🖊</g-emoji>
 
-- Conference Senior PC Member/Area Chair: 
-IJCAI (2023-2024) 
+- Conference Area Chair / Senior PC Member: \
+IJCAI (2023-2025) 
 
-- Conference PC Member/Reviewer: 
-ACL Roling Review (2021-present), NeurIPS (2024), ICLR (2025), ACL (2022-2024), ACM KDD (2022-2024), ACM Multimedia (2022-2024), AAAI (2024-2025), ECCV (2024), EMNLP (2022-2024), NAACL (2022,2024), EACL (2024), ICWSM (2024-2025), ECML-PKDD (2023-2024), ICASSP (2024-2025), AISTATS (2023-2025), etc
+- Conference PC Member / Reviewer: \
+ACL Roling Review (2021-present), NeurIPS (2024), ICLR (2025), ICML (2025), ACL (2022-2025), EMNLP (2022-2024), NAACL (2022,2024-2025), EACL (2024), CVPR(2025), ECCV (2024), AAAI (2024-2025), ACM Multimedia (2022-2024), ACM KDD (2022-2024), AISTATS (2023-2025), ICWSM (2024-2025), ECML-PKDD (2023-2025), ICASSP (2024-2025)
 
-- Journal Reviewer: 
-Neural Networks, Information Fusion, Pattern Recognition, Knowledge-Based Systems, Expert Systems With Applications, IEEE Robotics and Automation Letters, Neurocomputing, etc
+- Journal Reviewer: \
+Pattern Recognition, Information Fusion, Neural Networks, Knowledge-Based Systems, Expert Systems With Applications, Neurocomputing, IEEE Robotics and Automation Letters
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=m&d=Nnem6cnBKrTWlQflRw_36Uq6Iy-QmEldmoz6Wszl1xY'></script>
+
+
+<!-- ## Selected Awards <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> -->
+
+
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=m&d=Nnem6cnBKrTWlQflRw_36Uq6Iy-QmEldmoz6Wszl1xY&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
+
