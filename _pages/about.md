@@ -84,4 +84,4 @@ Pattern Recognition, Information Fusion, Neural Networks, Knowledge-Based System
 <!-- ## Selected Awards <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> -->
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=n&d=Nnem6cnBKrTWlQflRw_36Uq6Iy-QmEldmoz6Wszl1xY'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=tt&d=Nnem6cnBKrTWlQflRw_36Uq6Iy-QmEldmoz6Wszl1xY&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
