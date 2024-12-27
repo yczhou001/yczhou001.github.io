@@ -19,7 +19,7 @@
 
 
 
-<title>Posts by Collection  Yucheng Zhou</title>
+<title>BibTex  Yucheng Zhou</title>
 
 
 
@@ -29,11 +29,11 @@
 
 <meta property="og:locale" content="en-US">
 <meta property="og:site_name" content="Yucheng Zhou">
-<meta property="og:title" content="Posts by Collection">
+<meta property="og:title" content="BibTex">
 
 
-  <link rel="canonical" href="https://yczhou001.github.io/collection-archive/">
-  <meta property="og:url" content="https://yczhou001.github.io/collection-archive/">
+  <link rel="canonical" href="https://yczhou001.github.io/bibtex/">
+  <meta property="og:url" content="https://yczhou001.github.io/bibtex/">
 
 
 
@@ -143,156 +143,67 @@
   </div>
 </div>
 
-    
+    <div style="max-width: 1000px; margin: 0 auto; padding: 20px;">
+  <h3 style="text-align: center;">BibTex</h3>
 
+  <!-- Copy Button -->
+  <button class="copy-btn" onclick="copyCode()">Copy</button>
 
-
-<div id="main" role="main">
-  
-
-
-  <div class="sidebar sticky">
-  
-
-
-
-<div itemscope itemtype="http://schema.org/Person">
-
-  <div class="author__avatar">
-    
-    	<img src="https://yczhou001.github.io/images/yczhou.png" class="author__avatar" alt="Yucheng Zhou">
-    
-  </div>
-
-  <div class="author__content">
-    <h3 class="author__name">Yucheng Zhou</h3>
-    <p class="author__bio">State Key Lab of IOTSC,<br/> Department of CIS,<br/> University of Macau</p>
-  </div>
-
-  <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Follow</button>
-    <ul class="author__urls social-icons">
-      
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Macau</li>
-      
-      
-      
-      
-        <li><a href="mailto:ycz@ieee.com"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
-      
-      
-       
-      
-      
-      
-      
-      
-      
-      
-      
-      
-        <li><a href="https://github.com/yczhou001"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-        <li><a href="https://scholar.google.com/citations?user=nnbFqRAAAAAJ"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
-      
-      
-      
-      
-      
-    </ul>
-  </div>
+  <pre><code id="bibtex-code" class="language-bibtex">
+@inproceedings{zhou2024less,
+  title={Less Is More: Vision Representation Compression for Efficient Video Generation with Large Language Models},
+  author={Yucheng Zhou and Jihai Zhang and Guanjie Chen and Jianbing Shen and Yu Cheng},
+  booktitle={OpenReview},
+  year={2024},
+  url={https://openreview.net/pdf?id=S7yRfgmnpm},
+}
+  </code></pre>
 </div>
 
-  
-  </div>
-
-
-  <div class="archive">
+<!-- JavaScript -->
+<script>
+  function copyCode() {
+    // Get the code from the code block
+    var code = document.getElementById('bibtex-code').innerText;
     
-      <h1 class="page__title">Posts by Collection</h1>
-    
-    
+    // Create a temporary textarea element to copy the text
+    var textArea = document.createElement('textarea');
+    textArea.value = code;
+    document.body.appendChild(textArea);
 
+    // Select the text inside the textarea
+    textArea.select();
+    textArea.setSelectionRange(0, 99999); // For mobile devices
 
+    // Execute the copy command
+    document.execCommand('copy');
 
-  
-  
-    
-  
+    // Remove the temporary textarea element
+    document.body.removeChild(textArea);
 
-  
-  
+    // Alert the user that the code has been copied
+    alert('BibTex code has been copied!');
+  }
+</script>
 
-  
-    
-    
-      <h2 id="publications" class="archive__subtitle">publications</h2>
-      
-    
-  
-  
-    
-      
+<!-- Styles -->
+<style>
+  .copy-btn {
+    background-color: #4CAF50; /* Button background color */
+    color: white;              /* Button text color */
+    border: none;              /* Remove button border */
+    padding: 10px 20px;        /* Button padding */
+    font-size: 14px;           /* Button text size */
+    cursor: pointer;          /* Pointer cursor on hover */
+    border-radius: 5px;        /* Button border radius */
+    margin-top: 10px;          /* Space between the button and code block */
+  }
 
+  .copy-btn:hover {
+    background-color: #45a049; /* Darker background on hover */
+  }
+</style>
 
-
-
-
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    
-
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="https://yczhou001.github.io/publication/emse-2022" rel="permalink">A Large-Scale Empirical Study of Commit Message Generation: Models, Datasets and Evaluation
-</a>
-      
-    </h2>
-    
-    
-
-        
-          <p>Published in <i></i>, 2022 </p>
-        
-
-    
-    <p class="archive__item-excerpt" itemprop="description"><p>Commit messages are natural language descriptions of code changes, which are important for program understanding and maintenance. However, writing commit messages manually is time-consuming and laborious, especially when the code is updated frequently. Various approaches utilizing generation or retrieval techniques have been proposed to automatically generate commit messages. To achieve a better understanding of how the existing approaches perform in solving this problem, this paper conducts a systematic and in-depth analysis of the state-of-the-art models and datasets. We find that: (1) Different variants of the BLEU metric used in previous works affect the evaluation. (2) Most datasets are crawled only from Java repositories while repositories in other programming languages are not sufficiently explored. (3) Dataset splitting strategies can influence the performance of existing models by a large margin. (4) For pre-trained models, fune-tuning with different multi-programming-language combinations can influence their performance. Based on these findings, we collect a large-scale, information-rich, <strong>M</strong>ulti-language <strong>C</strong>ommit <strong>M</strong>essage <strong>D</strong>ataset <strong>MCMD</strong>. Using MCMD, we conduct extensive experiments under different experiment settings including splitting strategies and  multi-programming-language combinations. Furthermore, we provide suggestions for comprehensively evaluating commit message generation models and discuss possible future research directions. We believe our work can help practitioners and researchers better evaluate and select models for automatic commit message generation. Our source code and data are available at <a href="https://anonymous.4open.science/r/CommitMessageEmpirical">https://anonymous.4open.science/r/CommitMessageEmpirical</a></p>
-</p>
-    
-    
-    
-
-  </article>
-</div>
-
-    
-  
-
-  
-  
-
-  
-  
-    
-  
-    
-  
-
-  </div>
-</div>
 
 
     <div class="page__footer">

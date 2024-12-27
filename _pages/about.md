@@ -21,7 +21,19 @@ I am always open for research discussions and collaborations.
 
 
 
-## Selected Publications <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
+
+
+## Preprint <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
+**Yucheng Zhou**, Jihai Zhang, Guanjie Chen, Jianbing Shen, Yu Cheng. Less Is More: Vision Representation Compression for Efficient Video Generation with Large Language Models. ([pdf](https://openreview.net/pdf?id=S7yRfgmnpm), [bib](/bibtex/)).
+
+**Yucheng Zhou**, Zhi Rao, Jun Wan, Jianbing Shen. Rethinking Visual Dependency in Long-Context Reasoning for Large Vision-Language Models. ([pdf](https://arxiv.org/pdf/2410.19732?)).
+
+
+
+
+
+
+## Selected Publications <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📜</g-emoji>
 Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nnbFqRAAAAAJ)
 
 **Yucheng Zhou**, Xiang Li, Qianning Wang, Jianbing Shen. Visual In-Context Learning for Large Vision-Language Models. ACL 2024 ([pdf](https://arxiv.org/pdf/2402.11574.pdf)).
@@ -43,6 +55,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nn
 **Yucheng Zhou**, Xiubo Geng, Tao Shen, Jian Pei, Wenqiang Zhang, Daxin Jiang. Modeling Event-Pair Relations in External Knowledge Graphs for Script Reasoning. ACL 2021 ([pdf](https://aclanthology.org/2021.findings-acl.403.pdf), [data](https://github.com/yczhou001/ClarET)).
 
 **Yucheng Zhou**, Xiubo Geng, Tao Shen, Wenqiang Zhang, Daxin Jiang. Improving Zero-Shot Cross-lingual Transfer for Multilingual Question Answering over Knowledge Graph. NAACL 2021 ([pdf](https://aclanthology.org/2021.naacl-main.465.pdf), [data](https://github.com/yczhou001/Multilingual-KBQA-Dataset)).
+
 
 
 
@@ -71,6 +84,4 @@ Pattern Recognition, Information Fusion, Neural Networks, Knowledge-Based System
 <!-- ## Selected Awards <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> -->
 
 
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=m&d=Nnem6cnBKrTWlQflRw_36Uq6Iy-QmEldmoz6Wszl1xY&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
-
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=n&d=Nnem6cnBKrTWlQflRw_36Uq6Iy-QmEldmoz6Wszl1xY'></script>
