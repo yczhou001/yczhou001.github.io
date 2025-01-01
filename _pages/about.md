@@ -23,13 +23,12 @@ I am always open for research discussions and collaborations.
 
 
 
-## Preprint <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
+## Selected Preprint <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
 **Yucheng Zhou**, Jihai Zhang, Guanjie Chen, Jianbing Shen, Yu Cheng. Less Is More: Vision Representation Compression for Efficient Video Generation with Large Language Models. ([pdf](https://openreview.net/pdf?id=S7yRfgmnpm), [bib](/bibtex/)).
 
 **Yucheng Zhou**, Zhi Rao, Jun Wan, Jianbing Shen. Rethinking Visual Dependency in Long-Context Reasoning for Large Vision-Language Models. ([pdf](https://arxiv.org/pdf/2410.19732?)).
 
-
-
+Chenglin Wang, **Yucheng Zhou**, Zijie Zhai, Jianbing Shen, Kai Zhang. Diffusion Model with Representation Alignment for Protein Inverse Folding. ([pdf](https://arxiv.org/pdf/2412.09380)).
 
 
 
@@ -38,15 +37,9 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nn
 
 **Yucheng Zhou**, Xiang Li, Qianning Wang, Jianbing Shen. Visual In-Context Learning for Large Vision-Language Models. ACL 2024 ([pdf](https://arxiv.org/pdf/2402.11574.pdf)).
 
-**Yucheng Zhou**, Tao Shen, Xiubo Geng, Chongyang Tao, Jianbing Shen, Guodong Long, Can Xu, Daxin Jiang. Fine-Grained Distillation for Long Document Retrieval. AAAI 2024 ([pdf](https://arxiv.org/pdf/2212.10423.pdf)).
+**Yucheng Zhou**, Tao Shen, Xiubo Geng, Chongyang Tao, Jianbing Shen, Guodong Long, Can Xu, Daxin Jiang. Fine-Grained Distillation for Long Document Retrieval. AAAI 2024 ([pdf](https://arxiv.org/pdf/2212.10423.pdf), [code](https://github.com/yczhou001/FGD)).
 
 **Yucheng Zhou**, Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, Guodong Long, Binxing Jiao, Daxin Jiang. Towards Robust Ranker for Text Retrieval. ACL 2023 ([pdf](https://arxiv.org/pdf/2206.08063.pdf), [code](https://huggingface.co/YCZhou/R2ANKER)).
-
-**Yucheng Zhou**, Guodong Long. Multimodal Event Transformer for Image-guided Story Ending Generation. EACL 2023 ([pdf](https://aclanthology.org/2023.eacl-main.249.pdf)).
-
-**Yucheng Zhou**, Guodong Long. Improving Cross-modal Alignment for Text-Guided Image Inpainting. EACL 2023 ([pdf](https://aclanthology.org/2023.eacl-main.250.pdf)).
-
-**Yucheng Zhou**, Guodong Long. Style-Aware Contrastive Learning for Multi-Style Image Captioning. EACL 2023 ([pdf](https://aclanthology.org/2023.findings-eacl.169.pdf)).
 
 **Yucheng Zhou**, Tao Shen, Xiubo Geng, Guodong Long, Daxin Jiang. ClarET: Pre-training a Correlation-Aware Context-To-Event Transformer for Event-Centric Generation and Classification. ACL 2022 ([pdf](https://aclanthology.org/2022.acl-long.183.pdf), [code](https://aclanthology.org/2022.acl-long.183/), [data](https://github.com/yczhou001/ClarET)).
 
@@ -74,10 +67,10 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nn
 IJCAI (2023-2025) 
 
 - Conference PC Member / Reviewer: \
-ACL Roling Review (2021-present), NeurIPS (2024), ICLR (2025), ICML (2025), ACL (2022-2025), EMNLP (2022-2024), NAACL (2022,2024-2025), EACL (2024), CVPR(2025), ECCV (2024), AAAI (2024-2025), ACM Multimedia (2022-2024), ACM KDD (2022-2024), AISTATS (2023-2025), ICWSM (2024-2025), ECML-PKDD (2023-2025), ICASSP (2024-2025)
+NeurIPS (2024), ICLR (2025), ICML (2025), ACL (2022-2025), EMNLP (2022-2024), NAACL (2022,2024-2025), EACL (2024), CVPR(2025), ECCV (2024), ACM KDD (2022-2024), AAAI (2024-2025), ACM Multimedia (2022-2024), AISTATS (2023-2025), ICWSM (2024-2025), ECML-PKDD (2023-2025), ICASSP (2024-2025)
 
 - Journal Reviewer: \
-Pattern Recognition, Information Fusion, Neural Networks, Knowledge-Based Systems, Expert Systems With Applications, Neurocomputing, IEEE Robotics and Automation Letters
+Pattern Recognition, Information Fusion, Neural Networks
 
 
 
