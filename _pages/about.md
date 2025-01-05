@@ -24,9 +24,11 @@ I am always open for research discussions and collaborations.
 
 
 ## Selected Preprint <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
-**Yucheng Zhou**, Jihai Zhang, Guanjie Chen, Jianbing Shen, Yu Cheng. Less Is More: Vision Representation Compression for Efficient Video Generation with Large Language Models. ([pdf](https://openreview.net/pdf?id=S7yRfgmnpm), [bib](/bibtex/)).
+**Yucheng Zhou**, Jihai Zhang, Guanjie Chen, Jianbing Shen, Yu Cheng. Less Is More: Vision Representation Compression for Efficient Video Generation with Large Language Models. ([pdf](https://openreview.net/pdf?id=S7yRfgmnpm)).
 
 **Yucheng Zhou**, Zhi Rao, Jun Wan, Jianbing Shen. Rethinking Visual Dependency in Long-Context Reasoning for Large Vision-Language Models. ([pdf](https://arxiv.org/pdf/2410.19732?)).
+
+**Yucheng Zhou**, Lingran Song, Jianbing Shen. Training Medical Large Vision-Language Models with Abnormal-Aware Feedback. ([pdf](https://arxiv.org/pdf/2501.01377)).
 
 Chenglin Wang, **Yucheng Zhou**, Zijie Zhai, Jianbing Shen, Kai Zhang. Diffusion Model with Representation Alignment for Protein Inverse Folding. ([pdf](https://arxiv.org/pdf/2412.09380)).
 
