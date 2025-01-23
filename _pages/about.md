@@ -37,6 +37,8 @@ Chenglin Wang, **Yucheng Zhou**, Zijie Zhai, Jianbing Shen, Kai Zhang. Diffusion
 ## Selected Publications <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📜</g-emoji>
 Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nnbFqRAAAAAJ)
 
+**Yucheng Zhou**, Jianbing Shen, Yu Cheng. Weak to Strong Generalization for Large Language Models with Multi-capabilities. ICLR 2025 ([pdf](https://openreview.net/forum?id=N1vYivuSKq)).
+
 **Yucheng Zhou**, Xiang Li, Qianning Wang, Jianbing Shen. Visual In-Context Learning for Large Vision-Language Models. ACL 2024 ([pdf](https://arxiv.org/pdf/2402.11574.pdf)).
 
 **Yucheng Zhou**, Tao Shen, Xiubo Geng, Chongyang Tao, Jianbing Shen, Guodong Long, Can Xu, Daxin Jiang. Fine-Grained Distillation for Long Document Retrieval. AAAI 2024 ([pdf](https://arxiv.org/pdf/2212.10423.pdf), [code](https://github.com/yczhou001/FGD)).
