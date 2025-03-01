@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am currently pursuing a Ph.D. in computer science at the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), University of Macau, under the supervision of Prof. [Jianbing Shen](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en). Concurrently, I am a research intern at Shanghai AI Lab, mentored by Prof. [Yu Cheng](https://ych133.github.io/). I completed my master's degree from Fudan University, supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html). Throughout my academic journey, I have been fortunate to collaborate with Dr. [Xiubo Geng](https://xiubo0211.github.io/) from Microsoft, Prof. [Guodong Long](https://guodonglong.github.io/) from the University of Technology Sydney, and Dr. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en) from Oracle.
+Hello, I am currently pursuing a Ph.D. in computer science at the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), University of Macau, under the supervision of Prof. [Jianbing Shen](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en). Concurrently, I am working under the guidance of Prof. [Yu Cheng](https://ych133.github.io/) from the Chinese University of Hong Kong. I completed my master's degree from Fudan University, supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html). Throughout my academic journey, I have been fortunate to collaborate with Dr. [Xiubo Geng](https://xiubo0211.github.io/) from Microsoft, Prof. [Guodong Long](https://guodonglong.github.io/) from the University of Technology Sydney, and Dr. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en) from Oracle.
 
 My research centers on **Machine Learning**, **Natural Language Processing**, and **Vision and Language**. The overarching goal of my work is to advance machine intelligence to serve humanity and assist in exploring the world together. My research pursuits have involved the analysis, training, medical applications, and forward-looking of Large Language Models. Additionally, I am engaged in research on video generation leveraging large language models, aiming to enhance their understanding and generation capabilities within our visual world.
 
@@ -59,8 +59,8 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nn
 
 ## Experiences <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji>
 
-- 2023 - Present, Research Internship at [Shanghai AI Lab](https://www.shlab.org.cn/)
-- 2020 - 2023, Research Internship at [Microsoft](https://careers.microsoft.com/v2/global/en/locations/beijing.html)
+- 2023 - Present, Research Internship at Shanghai AI Lab
+- 2020 - 2023, Research Internship at Microsoft
 
 
 
