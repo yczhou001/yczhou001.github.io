@@ -15,6 +15,13 @@ gem "github-pages", group: :jekyll_plugins
 # To upgrade, run `bundle update`.
 
 # gem "jekyll"
+source "https://rubygems.org"
+
+gem "jekyll", "~> 3.9.3"
+gem "hawkins" # 你依賴的 gem
+gem "csv"     # 之前加的
+gem "logger"  # 之前加的
+gem "base64"  # <-- 新加入的
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 

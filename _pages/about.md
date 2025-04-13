@@ -68,10 +68,10 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nn
 ## Professional Services <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f58a.png?v8">🖊</g-emoji>
 
 - Conference Area Chair / Senior PC Member: \
-ACL (2025), ACM KDD (2025), IJCAI (2023-2025) 
+NeurIPS (2025), ACL (2025), KDD (2025), IJCAI (2023-2025) 
 
 - Conference PC Member / Reviewer: \
-NeurIPS (2024-2025), ICLR (2025), ICML (2025), ACL (2022-2025), EMNLP (2022-2024), NAACL (2022,2024-2025), EACL (2024), CVPR(2025), ICCV(2025), ECCV (2024), ACM KDD (2022-2024), SIGIR (2025), AAAI (2024-2025), ACM Multimedia (2022-2024), AISTATS (2023-2025), ICWSM (2024-2025), ECML-PKDD (2023-2025), ICASSP (2024-2025)
+NeurIPS (2024), ICLR (2025), ICML (2025), ACL (2022-2024), EMNLP (2022-2024), NAACL (2022,2024-2025), EACL (2024), CVPR(2025), ICCV(2025), ECCV (2024), KDD (2022-2024), SIGIR (2025), AAAI (2024-2025), ACMMM (2022-2024), AISTATS (2023-2025), ICWSM (2024-2025), ECML-PKDD (2023-2025), ICASSP (2024-2025)
 
 - Journal Reviewer: \
 Pattern Recognition, Information Fusion, Neural Networks
