@@ -28,8 +28,6 @@ I am always open for research discussions and collaborations.
 
 **Yucheng Zhou**, Zhi Rao, Jun Wan, Jianbing Shen. Rethinking Visual Dependency in Long-Context Reasoning for Large Vision-Language Models. ([pdf](https://arxiv.org/pdf/2410.19732?)).
 
-Chenglin Wang, **Yucheng Zhou**, Zijie Zhai, Jianbing Shen, Kai Zhang. Diffusion Model with Representation Alignment for Protein Inverse Folding. ([pdf](https://arxiv.org/pdf/2412.09380)).
-
 
 
 ## Selected Publications <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📜</g-emoji>
