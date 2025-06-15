@@ -10,9 +10,8 @@ redirect_from:
 
 Hello, I am currently pursuing a Ph.D. in computer science at the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), University of Macau, under the supervision of Prof. [Jianbing Shen](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en). Concurrently, I am working under the guidance of Prof. [Yu Cheng](https://ych133.github.io/) from the Chinese University of Hong Kong. I completed my master's degree from Fudan University, supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html). Throughout my academic journey, I have been fortunate to collaborate with Dr. [Xiubo Geng](https://xiubo0211.github.io/) from Microsoft, Prof. [Guodong Long](https://guodonglong.github.io/) from the University of Technology Sydney, and Dr. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en) from Oracle.
 
-My research centers on **Machine Learning**, **Natural Language Processing**, and **Vision and Language**. The overarching goal of my work is to advance machine intelligence to serve humanity and assist in exploring the world together. My research pursuits have involved the analysis, training, medical applications, and forward-looking of Large Language Models. Additionally, I am engaged in research on video generation leveraging large language models, aiming to enhance their understanding and generation capabilities within our visual world.
-
-I am always open for research discussions and collaborations.
+My research centers on **Machine Learning**, **Large Language Models**, and **Vision and Language**. The overarching goal of my work is to advance machine intelligence to serve humanity.
+My research pursuits have involved the analysis of LLMs and their applications in healthcare and visual generation. I am always open for research discussions and collaborations.
 
 
 
@@ -67,14 +66,14 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nn
 
 ## Professional Services <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f58a.png?v8">🖊</g-emoji>
 
-- Conference Area Chair / Senior PC Member: \
+- Conference Area Chair / Meta-Reviewer: \
 ACL (2025), EMNLP (2025), NeurIPS (2025), KDD (2025), IJCAI (2023-2025) 
 
 - Conference PC Member / Reviewer: \
 ICLR (2025), NeurIPS (2024-2025), ICML (2025), ACL (2022-2024), EMNLP (2022-2024), NAACL (2022,2024-2025), COLM (2025), EACL (2024), CVPR(2025), ICCV(2025), ECCV (2024), KDD (2022-2024), SIGIR (2025), AAAI (2024-2025), ACMMM (2022-2025), AISTATS (2023-2025)
 
 - Journal Reviewer: \
-Pattern Recognition, Information Fusion, Neural Networks
+IEEE Transactions on Affective Computing, Pattern Recognition, Information Fusion, Neural Networks
 
 
 
