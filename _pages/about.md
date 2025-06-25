@@ -27,18 +27,19 @@ My research pursuits have involved the analysis of LLMs and their applications i
 
 **Yucheng Zhou**, Zhi Rao, Jun Wan, Jianbing Shen. Rethinking Visual Dependency in Long-Context Reasoning for Large Vision-Language Models. ([pdf](https://arxiv.org/pdf/2410.19732?)).
 
+**Yucheng Zhou**, Jiahao Yuan, Qianning Wang. Draw ALL Your Imagine: A Holistic Benchmark and Agent Framework for Complex Instruction-based Image Generation. ([pdf](https://arxiv.org/pdf/2505.24787?), [code](https://github.com/yczhou001/LongBench-T2I)).
 
 
 ## Selected Publications <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📜</g-emoji>
 Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nnbFqRAAAAAJ)
 
-**Yucheng Zhou**, Lingran Song, Jianbing Shen. MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration. ACL 2025.
+**Yucheng Zhou**, Lingran Song, Jianbing Shen. MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration. ACL 2025 ([pdf](https://arxiv.org/pdf/2506.19835), [code](https://github.com/yczhou001/MAM)).
 
-**Yucheng Zhou**, Lingran Song, Jianbing Shen. Training Medical Large Vision-Language Models with Abnormal-Aware Feedback. ACL 2025 ([pdf](https://arxiv.org/pdf/2501.01377)).
+**Yucheng Zhou**, Lingran Song, Jianbing Shen. Improving Medical Large Vision-Language Models with Abnormal-Aware Feedback. ACL 2025 ([pdf](https://arxiv.org/pdf/2501.01377)).
 
 **Yucheng Zhou**, Jianbing Shen, Yu Cheng. Weak to Strong Generalization for Large Language Models with Multi-capabilities. ICLR 2025 ([pdf](https://openreview.net/forum?id=N1vYivuSKq)).
 
-**Yucheng Zhou**, Xiang Li, Qianning Wang, Jianbing Shen. Visual In-Context Learning for Large Vision-Language Models. ACL 2024 ([pdf](https://arxiv.org/pdf/2402.11574.pdf)).
+**Yucheng Zhou**, Xiang Li, Qianning Wang, Jianbing Shen. Visual In-Context Learning for Large Vision-Language Models. ACL 2024 ([pdf](https://arxiv.org/pdf/2402.11574.pdf), [code](https://github.com/yczhou001/VICL)).
 
 **Yucheng Zhou**, Tao Shen, Xiubo Geng, Chongyang Tao, Jianbing Shen, Guodong Long, Can Xu, Daxin Jiang. Fine-Grained Distillation for Long Document Retrieval. AAAI 2024 ([pdf](https://arxiv.org/pdf/2212.10423.pdf), [code](https://github.com/yczhou001/FGD)).
 
@@ -70,7 +71,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nn
 ACL (2025), EMNLP (2025), NeurIPS (2025), KDD (2025), IJCAI (2023-2025) 
 
 - Conference PC Member / Reviewer: \
-ICLR (2025), NeurIPS (2024-2025), ICML (2025), ACL (2022-2024), EMNLP (2022-2024), NAACL (2022,2024-2025), COLM (2025), EACL (2024), CVPR(2025), ICCV(2025), ECCV (2024), KDD (2022-2024), SIGIR (2025), AAAI (2024-2025), ACMMM (2022-2025), AISTATS (2023-2025)
+ICLR (2025), NeurIPS (2024-2025), ICML (2025), ACL (2022-2024), EMNLP (2022-2024), NAACL (2022,2024-2025), COLM (2025), EACL (2024), CVPR (2025), ICCV (2025), ECCV (2024), KDD (2022-2024), SIGIR (2025), AAAI (2024-2025), ACMMM (2022-2025), WSDM (2026), AISTATS (2023-2025)
 
 - Journal Reviewer: \
 IEEE Transactions on Affective Computing, Pattern Recognition, Information Fusion, Neural Networks
