@@ -34,9 +34,9 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nn
 
 **Yucheng Zhou**, Jianbing Shen, Yu Cheng. Weak to Strong Generalization for Large Language Models with Multi-capabilities. ICLR 2025 ([pdf](https://openreview.net/forum?id=N1vYivuSKq)).
 
-**Yucheng Zhou**, Lingran Song, Jianbing Shen. MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration. ACL 2025 ([pdf](https://arxiv.org/pdf/2506.19835), [code](https://github.com/yczhou001/MAM)).
+**Yucheng Zhou**, Lingran Song, Jianbing Shen. MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration. ACL 2025 ([pdf](https://aclanthology.org/2025.findings-acl.1298.pdf), [code](https://github.com/yczhou001/MAM)).
 
-**Yucheng Zhou**, Lingran Song, Jianbing Shen. Improving Medical Large Vision-Language Models with Abnormal-Aware Feedback. ACL 2025 ([pdf](https://arxiv.org/pdf/2501.01377)).
+**Yucheng Zhou**, Lingran Song, Jianbing Shen. Improving Medical Large Vision-Language Models with Abnormal-Aware Feedback. ACL 2025 ([pdf](https://aclanthology.org/2025.acl-long.636.pdf)).
 
 Hongji Yang, **Yucheng Zhou**, Wencheng Han, Jianbing Shen. Self-Rewarding Large Vision-Language Models for Optimizing Prompts in Text-to-Image Generation. ACL 2025 ([pdf](https://aclanthology.org/2025.findings-acl.383.pdf)).
 
@@ -44,23 +44,23 @@ Zesheng Shi, **Yucheng Zhou**, Jing Li, Yuxin Jin, Yu Li, Daojing He, Fangming L
 
 Hongji Yang, Wencheng Han, **Yucheng Zhou**, Jianbing Shen. DC-ControlNet: Decoupling Inter-and Intra-Element Conditions in Image Generation with Diffusion Models. ICCV 2025 ([pdf](https://arxiv.org/pdf/2502.14779)).
 
-Guanjie Chen, Xinyu Zhao, **Yucheng Zhou**, Xiaoye Qu, Tianlong Chen, Yu Cheng. Towards Stabilized and Efficient Diffusion Transformers through Long-Skip-Connections with Spectral Constraints. ICCV 2025 ([pdf](https://arxiv.org/pdf/2411.17616)).
+Guanjie Chen, Xinyu Zhao, **Yucheng Zhou**, Xiaoye Qu, Tianlong Chen, Yu Cheng. Towards Stabilized and Efficient Diffusion Transformers through Long-Skip-Connections with Spectral Constraints. ICCV 2025 ([pdf](https://arxiv.org/pdf/2411.17616), [code](https://github.com/OpenSparseLLMs/Skip-DiT)).
 
 Dubing Chen, Huan Zheng, **Yucheng Zhou**, Xianfei Li, Wenlong Liao, Tao He, Pai Peng, Jianbing Shen. Causality-Driven Vision-Based 3D Semantic Occupancy Prediction. ICCV 2025.
 
-Chenglin Wang, **Yucheng Zhou**, Qianning Wang, Zhe Wang, Kai Zhang. ComplexBench-Edit: Benchmarking Complex Instruction-Driven Image Editing via Compositional Dependencies. ACMMM 2025 ([pdf](https://www.arxiv.org/pdf/2506.12830)).
+Chenglin Wang, **Yucheng Zhou**, Qianning Wang, Zhe Wang, Kai Zhang. ComplexBench-Edit: Benchmarking Complex Instruction-Driven Image Editing via Compositional Dependencies. ACMMM 2025 ([pdf](https://www.arxiv.org/pdf/2506.12830), [code](https://github.com/llllly26/ComplexBench-Edit)).
 
 Chenglin Wang, **Yucheng Zhou**, Zijie Zhai, Jianbing Shen, Kai Zhang. Alternate Geometric and Semantic Denoising Diffusion for Protein Inverse Folding. ECML 2025 ([pdf](https://arxiv.org/pdf/2412.09380v1)).
 
 Xiang Li, **Yucheng Zhou**, Laiping Zhao, Jing Li, Fangming Liu. Impromptu Cybercrime Euphemism Detection. COLING 2025 ([pdf](https://aclanthology.org/2025.coling-main.612.pdf)).
 
-**Yucheng Zhou**, Xiang Li, Qianning Wang, Jianbing Shen. Visual In-Context Learning for Large Vision-Language Models. ACL 2024 ([pdf](https://arxiv.org/pdf/2402.11574.pdf), [code](https://github.com/yczhou001/VICL)).
+**Yucheng Zhou**, Xiang Li, Qianning Wang, Jianbing Shen. Visual In-Context Learning for Large Vision-Language Models. ACL 2024 ([pdf](https://aclanthology.org/2024.findings-acl.940.pdf), [code](https://github.com/yczhou001/VICL)).
 
 **Yucheng Zhou**, Tao Shen, Xiubo Geng, Chongyang Tao, Jianbing Shen, Guodong Long, Can Xu, Daxin Jiang. Fine-Grained Distillation for Long Document Retrieval. AAAI 2024 ([pdf](https://arxiv.org/pdf/2212.10423.pdf), [code](https://github.com/yczhou001/FGD)).
 
-Wei Tao, **Yucheng Zhou**, Yanlin Wang, Wenqiang Zhang, Hongyu Zhang, Yu Cheng. MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution. NeurIPS 2024 ([pdf](https://proceedings.neurips.cc/paper_files/paper/2024/file/5d1f02132ef51602adf07000ca5b6138-Paper-Conference.pdf)).
+Wei Tao, **Yucheng Zhou**, Yanlin Wang, Wenqiang Zhang, Hongyu Zhang, Yu Cheng. MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution. NeurIPS 2024 ([pdf](https://proceedings.neurips.cc/paper_files/paper/2024/file/5d1f02132ef51602adf07000ca5b6138-Paper-Conference.pdf), [code](https://github.com/co-evolve-lab/magis)).
 
-Jiashuo Sun, Jihai Zhang, **Yucheng Zhou**, Zhaochen Su, Xiaoye Qu, Yu Cheng. SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information. EMNLP 2024 ([pdf](https://aclanthology.org/2024.emnlp-main.434.pdf)).
+Jiashuo Sun, Jihai Zhang, **Yucheng Zhou**, Zhaochen Su, Xiaoye Qu, Yu Cheng. SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information. EMNLP 2024 ([pdf](https://aclanthology.org/2024.emnlp-main.434.pdf), [code](https://github.com/gasolsun36/surf)).
 
 Qian Li, **Yucheng Zhou**, Cheng Ji, Feihong Lu, Jianian Gong, Shangguang Wang, Jianxin Li. Multi-Modal Inductive Framework for Text-Video Retrieval. ACMMM 2024 ([pdf](https://dl.acm.org/doi/10.1145/3664647.3681024)).
 
