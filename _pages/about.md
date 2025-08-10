@@ -10,8 +10,10 @@ redirect_from:
 
 Hello, I am currently pursuing a Ph.D. in computer science at the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), University of Macau, under the supervision of Prof. [Jianbing Shen (IEEE Fellow)](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en). Concurrently, I am working under the guidance of Prof. [Yu Cheng](https://ych133.github.io/) from the Chinese University of Hong Kong. I completed my master's degree from Fudan University, supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html). Throughout my academic journey, I have been fortunate to collaborate with Dr. [Xiubo Geng](https://xiubo0211.github.io/) from Microsoft, Prof. [Guodong Long](https://guodonglong.github.io/) from the University of Technology Sydney, and Dr. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en) from Oracle.
 
-My research centers on **Machine Learning**, **Large Language Models**, and **Vision and Language**, supported by the Fundamental Research Project for Young Ph.D. students from NSFC (国家自然科学基金青年学生基础研究项目(博士生)). The overarching goal of my work is to advance machine intelligence to serve humanity.
-My research pursuits have involved the analysis of LLMs and their applications in healthcare and visual generation. I am always open for research discussions and collaborations.
+My research centers on **Large Language Models**, and **Multimodal Model**, supported by the Fundamental Research Project for Young Ph.D. students from NSFC (国家自然科学基金青年学生基础研究项目(博士生)). 
+The overarching goal of my work is to advance machine intelligence to serve humanity.
+My interests are the understanding, analysis, and improvement of LLMs/MLLMs and their applications in AI Healthcare and Visual Generation. 
+I am always open for research discussions and collaborations. If you are interested in discussing or collaborating, please feel free to contact me via email.
 
 
 <!-- ## News <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> -->
