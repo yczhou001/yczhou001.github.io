@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am currently pursuing a Ph.D. in computer science at the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), University of Macau, under the supervision of Prof. [Jianbing Shen (IEEE Fellow)](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en). Concurrently, I am working under the guidance of Prof. [Yu Cheng](https://ych133.github.io/) from the Chinese University of Hong Kong. I completed my master's degree from Fudan University, supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html). Throughout my academic journey, I have been fortunate to collaborate with Dr. [Xiubo Geng](https://xiubo0211.github.io/) from Microsoft, Prof. [Guodong Long](https://guodonglong.github.io/) from the University of Technology Sydney, and Dr. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en) from Oracle.
+Hello, I am currently pursuing a Ph.D. in computer science at the State Key Laboratory of Internet of Things for Smart City (SKL-IOTSC), University of Macau, under the supervision of Prof. [Jianbing Shen (IEEE Fellow)](https://scholar.google.com/citations?user=_Q3NTToAAAAJ&hl=en). 
+Concurrently, I am working closely with Prof. [Yu Cheng](https://ych133.github.io/) from the Chinese University of Hong Kong. 
+I completed my master's degree from Fudan University, supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html). 
+Throughout my academic journey, I have been fortunate to collaborate with Dr. [Xiubo Geng](https://xiubo0211.github.io/) from Microsoft, Prof. [Guodong Long](https://guodonglong.github.io/) from the University of Technology Sydney, and Dr. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en) from Oracle.
 
-My research centers on **Large Language Models**, and **Multimodal Models**, supported by the Fundamental Research Project for Young Ph.D. students from NSFC (国家自然科学基金青年学生基础研究项目(博士生)). 
+My research centers on **Large Language Models**, and **Deep Generative Models**, supported by the Fundamental Research Project for Young Ph.D. students from NSFC (国家自然科学基金青年学生基础研究项目(博士生)). I was also selected for Tencent’s "Project Up" Talent Program (青云计划).
 The overarching goal of my work is to advance machine intelligence to serve humanity.
 My interests are the understanding, analysis, and improvement of LLMs/MLLMs and their applications in AI Healthcare and Visual Generation. 
 I am always open for research discussions and collaborations. If you are interested in discussing or collaborating, please feel free to contact me via email.
@@ -20,19 +23,17 @@ I am always open for research discussions and collaborations. If you are interes
 <!-- timetable and other -->
 
 
-
-
-
 ## Selected Preprint <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
-**Yucheng Zhou**, Jihai Zhang, Guanjie Chen, Jianbing Shen, Yu Cheng. Less Is More: Vision Representation Compression for Efficient Video Generation with Large Language Models. ([pdf](https://openreview.net/pdf?id=S7yRfgmnpm)).
-
-**Yucheng Zhou**, Zhi Rao, Jun Wan, Jianbing Shen. Rethinking Visual Dependency in Long-Context Reasoning for Large Vision-Language Models. ([pdf](https://arxiv.org/pdf/2410.19732?)).
 
 **Yucheng Zhou**, Jiahao Yuan, Qianning Wang. Draw ALL Your Imagine: A Holistic Benchmark and Agent Framework for Complex Instruction-based Image Generation. ([pdf](https://arxiv.org/pdf/2505.24787?), [code](https://github.com/yczhou001/LongBench-T2I)).
 
 
+
+
 ## Selected Publications <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📜</g-emoji>
 Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nnbFqRAAAAAJ)
+
+**Yucheng Zhou***, Jihai Zhang*, Guanjie Chen, Jianbing Shen, Yu Cheng. Less Is More: Vision Representation Compression for Efficient Video Generation with Large Language Models. AAAI 2026 ([pdf](https://openreview.net/pdf?id=S7yRfgmnpm)).
 
 **Yucheng Zhou**, Jianbing Shen, Yu Cheng. Weak to Strong Generalization for Large Language Models with Multi-capabilities. ICLR 2025 ([pdf](https://openreview.net/forum?id=N1vYivuSKq)).
 
@@ -44,15 +45,15 @@ Hongji Yang, **Yucheng Zhou**, Wencheng Han, Jianbing Shen. Self-Rewarding Large
 
 Zesheng Shi, **Yucheng Zhou**, Jing Li, Yuxin Jin, Yu Li, Daojing He, Fangming Liu, Saleh Alharbi, Jun Yu, Min Zhang. Safety Alignment via Constrained Knowledge Unlearning. ACL 2025 ([pdf](https://aclanthology.org/2025.acl-long.1240.pdf)).
 
-Hongji Yang, Wencheng Han, **Yucheng Zhou**, Jianbing Shen. DC-ControlNet: Decoupling Inter-and Intra-Element Conditions in Image Generation with Diffusion Models. ICCV 2025 ([pdf](https://arxiv.org/pdf/2502.14779)).
+Hongji Yang*, Wencheng Han*, **Yucheng Zhou**, Jianbing Shen. DC-ControlNet: Decoupling Inter-and Intra-Element Conditions in Image Generation with Diffusion Models. ICCV 2025 ([pdf](https://arxiv.org/pdf/2502.14779), [code](https://um-lab.github.io/DC-ControlNet/)).
 
-Guanjie Chen, Xinyu Zhao, **Yucheng Zhou**, Xiaoye Qu, Tianlong Chen, Yu Cheng. Towards Stabilized and Efficient Diffusion Transformers through Long-Skip-Connections with Spectral Constraints. ICCV 2025 ([pdf](https://arxiv.org/pdf/2411.17616), [code](https://github.com/OpenSparseLLMs/Skip-DiT)).
+Guanjie Chen*, Xinyu Zhao*, **Yucheng Zhou**, Xiaoye Qu, Tianlong Chen, Yu Cheng. Towards Stabilized and Efficient Diffusion Transformers through Long-Skip-Connections with Spectral Constraints. ICCV 2025 ([pdf](https://arxiv.org/pdf/2411.17616), [code](https://github.com/OpenSparseLLMs/Skip-DiT)).
 
 Dubing Chen, Huan Zheng, **Yucheng Zhou**, Xianfei Li, Wenlong Liao, Tao He, Pai Peng, Jianbing Shen. Causality-Driven Vision-Based 3D Semantic Occupancy Prediction. ICCV 2025.
 
 Chenglin Wang, **Yucheng Zhou**, Qianning Wang, Zhe Wang, Kai Zhang. ComplexBench-Edit: Benchmarking Complex Instruction-Driven Image Editing via Compositional Dependencies. ACMMM 2025 ([pdf](https://www.arxiv.org/pdf/2506.12830), [code](https://github.com/llllly26/ComplexBench-Edit)).
 
-Chenglin Wang, **Yucheng Zhou**, Zijie Zhai, Jianbing Shen, Kai Zhang. Alternate Geometric and Semantic Denoising Diffusion for Protein Inverse Folding. ECML 2025 ([pdf](https://arxiv.org/pdf/2412.09380v1)).
+Chenglin Wang*, **Yucheng Zhou***, Zijie Zhai, Jianbing Shen, Kai Zhang. Alternate Geometric and Semantic Denoising Diffusion for Protein Inverse Folding. ECML 2025 ([pdf](https://arxiv.org/pdf/2412.09380v1), [code](https://github.com/llllly26/ComplexBench-Edit)).
 
 Xiang Li, **Yucheng Zhou**, Laiping Zhao, Jing Li, Fangming Liu. Impromptu Cybercrime Euphemism Detection. COLING 2025 ([pdf](https://aclanthology.org/2025.coling-main.612.pdf)).
 
@@ -66,7 +67,7 @@ Jiashuo Sun, Jihai Zhang, **Yucheng Zhou**, Zhaochen Su, Xiaoye Qu, Yu Cheng. SU
 
 Qian Li, **Yucheng Zhou**, Cheng Ji, Feihong Lu, Jianian Gong, Shangguang Wang, Jianxin Li. Multi-Modal Inductive Framework for Text-Video Retrieval. ACMMM 2024 ([pdf](https://dl.acm.org/doi/10.1145/3664647.3681024)).
 
-Wei Tao, **Yucheng Zhou**, Yanlin Wang, Hongyu Zhang, Haofen Wang, Wenqiang Zhang. KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation. ACM TOSEM 2024 ([pdf](https://dl.acm.org/doi/10.1145/3643675)).
+Wei Tao, **Yucheng Zhou**, Yanlin Wang, Hongyu Zhang, Haofen Wang, Wenqiang Zhang. KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation. ACM TOSEM 2024 ([pdf](https://dl.acm.org/doi/10.1145/3643675), [code](https://github.com/DeepSoftwareAnalytics/KADEL)).
 
 **Yucheng Zhou**, Guodong Long. Improving Cross-modal Alignment for Text-Guided Image Inpainting. EACL 2023 ([pdf](https://aclanthology.org/2023.eacl-main.250.pdf)).
 
@@ -87,11 +88,11 @@ Wei Tao, **Yucheng Zhou**, Yanlin Wang, Hongyu Zhang, Haofen Wang, Wenqiang Zhan
 
 
 
-
 ## Experiences <g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji>
 
-- 2023 - Present, Research Internship at Shanghai AI Lab
-- 2020 - 2023, Research Internship at Microsoft
+- 2025 – Present, Research Intern, Tencent (Selected for Tencent "Project Up" Talent Program – 青云计划)
+- 2023 - 2025, Research Intern, Shanghai AI Lab
+- 2020 - 2023, Research Intern, Microsoft
 
 
 
@@ -99,14 +100,13 @@ Wei Tao, **Yucheng Zhou**, Yanlin Wang, Hongyu Zhang, Haofen Wang, Wenqiang Zhan
 ## Professional Services <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f58a.png?v8">🖊</g-emoji>
 
 - Conference Area Chair / Meta-Reviewer: \
-ACL (2025), EMNLP (2025), NeurIPS (2025), KDD (2025-2026), AAAI (2026), IJCAI (2023-2025)
+ACL, EMNLP, NeurIPS, KDD, AAAI, IJCAI
 
 - Conference PC Member / Reviewer: \
-ICLR (2025), NeurIPS (2024-2025), ICML (2025), ACL (2022-2024), EMNLP (2022-2024), NAACL (2022,2024-2025), COLM (2025), EACL (2024), CVPR (2025), ICCV (2025), ECCV (2024), KDD (2022-2024), SIGIR (2025), AAAI (2024-2026), ACMMM (2022-2025), WSDM (2026), AISTATS (2023-2025)
+ICLR, NeurIPS, ICML, ACL, EMNLP, NAACL, COLM, EACL, CVPR, ICCV, ECCV, KDD, SIGIR, AAAI, ACMMM, WSDM, AISTATS
 
 - Journal Reviewer: \
 IEEE Transactions on Affective Computing, Pattern Recognition, Information Fusion, Neural Networks
-
 
 
 <!-- ## Selected Awards <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> -->
