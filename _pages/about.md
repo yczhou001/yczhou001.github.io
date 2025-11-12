@@ -37,6 +37,8 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nn
 
 **Yucheng Zhou\***, Jihai Zhang\*, Guanjie Chen, Jianbing Shen, Yu Cheng. Less Is More: Vision Representation Compression for Efficient Video Generation with Large Language Models. AAAI 2026 ([pdf](https://openreview.net/pdf?id=S7yRfgmnpm)).
 
+Lingran Song, **Yucheng Zhou**, Jianbing Shen. Sim4Seg: Boosting Multimodal Multi-disease Medical Diagnosis Segmentation with Region-Aware Vision-Language Similarity Masks. AAAI 2026 ([pdf](https://arxiv.org/pdf/2511.06665))
+
 **Yucheng Zhou**, Jianbing Shen, Yu Cheng. Weak to Strong Generalization for Large Language Models with Multi-capabilities. ICLR 2025 ([pdf](https://openreview.net/forum?id=N1vYivuSKq)).
 
 **Yucheng Zhou**, Lingran Song, Jianbing Shen. MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration. ACL 2025 ([pdf](https://aclanthology.org/2025.findings-acl.1298.pdf), [code](https://github.com/yczhou001/MAM)).
