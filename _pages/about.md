@@ -13,7 +13,8 @@ Concurrently, I am working closely with Prof. [Yu Cheng](https://ych133.github.i
 I completed my master's degree from Fudan University, supervised by Prof. [Wenqiang Zhang](http://www.fudanroilab.com/2021/07/01/WenqiangZhang.html). 
 Throughout my academic journey, I have been fortunate to collaborate with Dr. [Xiubo Geng](https://xiubo0211.github.io/) from Microsoft, Prof. [Guodong Long](https://guodonglong.github.io/) from the University of Technology Sydney, and Dr. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en) from Oracle.
 
-My research centers on **Large Language Models**, and **Deep Generative Models**, supported by the Fundamental Research Project for Young Ph.D. students from NSFC (国家自然科学基金青年学生基础研究项目(博士生)). I was also selected for Tencent’s "Project Up" Talent Program (青云计划).
+My research centers on **Large Language Models**, and **Deep Generative Models**, supported by the Fundamental Research Project for Young Ph.D. students from NSFC (国家自然科学基金青年学生基础研究项目(博士生)). 
+I was also selected for Tencent’s "Project Up" Talent Program (青云计划).
 The overarching goal of my work is to advance machine intelligence to serve humanity.
 My interests are the understanding, analysis, and improvement of LLMs/MLLMs and their applications in AI Healthcare and Visual Generation. 
 I am always open for research discussions and collaborations. If you are interested in discussing or collaborating, please feel free to contact me via email.
@@ -25,15 +26,16 @@ I am always open for research discussions and collaborations. If you are interes
 
 ## Selected Preprint <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
 
-**Yucheng Zhou**, Jiahao Yuan, Qianning Wang. Draw ALL Your Imagine: A Holistic Benchmark and Agent Framework for Complex Instruction-based Image Generation. ([pdf](https://arxiv.org/pdf/2505.24787?), [code](https://github.com/yczhou001/LongBench-T2I)).
+**Yucheng Zhou**, Jiahao Yuan, Qianning Wang. Draw ALL Your Imagine: A Holistic Benchmark and Agent Framework for Complex Instruction-based Image Generation. ([pdf](https://arxiv.org/pdf/2505.24787?), [code](https://github.com/yczhou001/LongBench-T2I), [data](https://huggingface.co/datasets/YCZhou/LongBench-T2I)).
 
+He Hu\*, **Yucheng Zhou\***, Chiyuan Ma, Qianning Wang, Zheng Zhang, Fei Ma, Laizhong Cui, Qi Tian. TheraMind: A Strategic and Adaptive Agent for Longitudinal Psychological Counseling. ([pdf](https://arxiv.org/pdf/2510.25758), [project](https://0mwwm0.github.io/TheraMind/))
 
 
 
 ## Selected Publications <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📜</g-emoji>
 Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nnbFqRAAAAAJ)
 
-**Yucheng Zhou***, Jihai Zhang*, Guanjie Chen, Jianbing Shen, Yu Cheng. Less Is More: Vision Representation Compression for Efficient Video Generation with Large Language Models. AAAI 2026 ([pdf](https://openreview.net/pdf?id=S7yRfgmnpm)).
+**Yucheng Zhou\***, Jihai Zhang\*, Guanjie Chen, Jianbing Shen, Yu Cheng. Less Is More: Vision Representation Compression for Efficient Video Generation with Large Language Models. AAAI 2026 ([pdf](https://openreview.net/pdf?id=S7yRfgmnpm)).
 
 **Yucheng Zhou**, Jianbing Shen, Yu Cheng. Weak to Strong Generalization for Large Language Models with Multi-capabilities. ICLR 2025 ([pdf](https://openreview.net/forum?id=N1vYivuSKq)).
 
@@ -45,15 +47,15 @@ Hongji Yang, **Yucheng Zhou**, Wencheng Han, Jianbing Shen. Self-Rewarding Large
 
 Zesheng Shi, **Yucheng Zhou**, Jing Li, Yuxin Jin, Yu Li, Daojing He, Fangming Liu, Saleh Alharbi, Jun Yu, Min Zhang. Safety Alignment via Constrained Knowledge Unlearning. ACL 2025 ([pdf](https://aclanthology.org/2025.acl-long.1240.pdf)).
 
-Hongji Yang*, Wencheng Han*, **Yucheng Zhou**, Jianbing Shen. DC-ControlNet: Decoupling Inter-and Intra-Element Conditions in Image Generation with Diffusion Models. ICCV 2025 ([pdf](https://arxiv.org/pdf/2502.14779), [code](https://um-lab.github.io/DC-ControlNet/)).
+Hongji Yang\*, Wencheng Han\*, **Yucheng Zhou**, Jianbing Shen. DC-ControlNet: Decoupling Inter-and Intra-Element Conditions in Image Generation with Diffusion Models. ICCV 2025 ([pdf](https://openaccess.thecvf.com/content/ICCV2025/papers/Yang_DC-ControlNet_Decoupling_Inter-_and_Intra-Element_Conditions_in_Image_Generation_with_ICCV_2025_paper.pdf), [project](https://um-lab.github.io/DC-ControlNet/)).
 
-Guanjie Chen*, Xinyu Zhao*, **Yucheng Zhou**, Xiaoye Qu, Tianlong Chen, Yu Cheng. Towards Stabilized and Efficient Diffusion Transformers through Long-Skip-Connections with Spectral Constraints. ICCV 2025 ([pdf](https://arxiv.org/pdf/2411.17616), [code](https://github.com/OpenSparseLLMs/Skip-DiT)).
+Guanjie Chen\*, Xinyu Zhao\*, **Yucheng Zhou**, Xiaoye Qu, Tianlong Chen, Yu Cheng. Towards Stabilized and Efficient Diffusion Transformers through Long-Skip-Connections with Spectral Constraints. ICCV 2025 ([pdf](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Towards_Stabilized_and_Efficient_Diffusion_Transformers_through_Long-Skip-Connections_with_Spectral_ICCV_2025_paper.pdf), [code](https://github.com/OpenSparseLLMs/Skip-DiT)).
 
-Dubing Chen, Huan Zheng, **Yucheng Zhou**, Xianfei Li, Wenlong Liao, Tao He, Pai Peng, Jianbing Shen. Causality-Driven Vision-Based 3D Semantic Occupancy Prediction. ICCV 2025.
+Dubing Chen, Huan Zheng, **Yucheng Zhou**, Xianfei Li, Wenlong Liao, Tao He, Pai Peng, Jianbing Shen. Semantic Causality-Aware Vision-Based 3D Occupancy Prediction. ICCV 2025 ([pdf](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_Semantic_Causality-Aware_Vision-Based_3D_Occupancy_Prediction_ICCV_2025_paper.pdf), [code](https://github.com/cdb342/CausalOcc)).
 
-Chenglin Wang, **Yucheng Zhou**, Qianning Wang, Zhe Wang, Kai Zhang. ComplexBench-Edit: Benchmarking Complex Instruction-Driven Image Editing via Compositional Dependencies. ACMMM 2025 ([pdf](https://www.arxiv.org/pdf/2506.12830), [code](https://github.com/llllly26/ComplexBench-Edit)).
+Chenglin Wang\*, **Yucheng Zhou**\*, Qianning Wang, Zhe Wang, Kai Zhang. ComplexBench-Edit: Benchmarking Complex Instruction-Driven Image Editing via Compositional Dependencies. ACMMM 2025 ([pdf](https://dl.acm.org/doi/pdf/10.1145/3746027.3758301), [code](https://github.com/llllly26/ComplexBench-Edit)).
 
-Chenglin Wang*, **Yucheng Zhou***, Zijie Zhai, Jianbing Shen, Kai Zhang. Alternate Geometric and Semantic Denoising Diffusion for Protein Inverse Folding. ECML 2025 ([pdf](https://arxiv.org/pdf/2412.09380v1), [code](https://github.com/llllly26/ComplexBench-Edit)).
+Chenglin Wang\*, **Yucheng Zhou**\*, Zijie Zhai, Jianbing Shen, Kai Zhang. Alternate Geometric and Semantic Denoising Diffusion for Protein Inverse Folding. ECML 2025 ([pdf](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2025/research/preprint_ecml_pkdd_2025_research_918.pdf), [code](https://github.com/llllly26/AGSDD)).
 
 Xiang Li, **Yucheng Zhou**, Laiping Zhao, Jing Li, Fangming Liu. Impromptu Cybercrime Euphemism Detection. COLING 2025 ([pdf](https://aclanthology.org/2025.coling-main.612.pdf)).
 
@@ -75,7 +77,7 @@ Wei Tao, **Yucheng Zhou**, Yanlin Wang, Hongyu Zhang, Haofen Wang, Wenqiang Zhan
 
 **Yucheng Zhou**, Guodong Long. Multimodal Event Transformer for Image-guided Story Ending Generation. EACL 2023 ([pdf](https://aclanthology.org/2023.eacl-main.249.pdf)).
 
-**Yucheng Zhou**, Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, Guodong Long, Binxing Jiao, Daxin Jiang. Towards Robust Ranker for Text Retrieval. ACL 2023 ([pdf](https://arxiv.org/pdf/2206.08063.pdf), [code](https://huggingface.co/YCZhou/R2ANKER)).
+**Yucheng Zhou**, Tao Shen, Xiubo Geng, Chongyang Tao, Can Xu, Guodong Long, Binxing Jiao, Daxin Jiang. Towards Robust Ranker for Text Retrieval. ACL 2023 ([pdf](https://aclanthology.org/2023.findings-acl.332.pdf), [code](https://huggingface.co/YCZhou/R2ANKER)).
 
 **Yucheng Zhou**, Tao Shen, Xiubo Geng, Guodong Long, Daxin Jiang. ClarET: Pre-training a Correlation-Aware Context-To-Event Transformer for Event-Centric Generation and Classification. ACL 2022 ([pdf](https://aclanthology.org/2022.acl-long.183.pdf), [code](https://aclanthology.org/2022.acl-long.183/), [data](https://github.com/yczhou001/ClarET)).
 
