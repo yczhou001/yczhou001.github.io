@@ -14,9 +14,9 @@ I completed my master's degree from Fudan University, supervised by Prof. [Wenqi
 Throughout my academic journey, I have been fortunate to collaborate with Dr. [Xiubo Geng](https://xiubo0211.github.io/) from Microsoft, Prof. [Guodong Long](https://guodonglong.github.io/) from the University of Technology Sydney, and Dr. [Tao Shen](https://scholar.google.com/citations?user=SegyX9AAAAAJ&hl=en) from Oracle.
 
 My research centers on **Large Language Models**, and **Deep Generative Models**, supported by the Fundamental Research Project for Young Ph.D. students from NSFC (国家自然科学基金青年学生基础研究项目(博士生)). 
-I was also selected for Tencent’s "Project Up" Talent Program (青云计划).
-The overarching goal of my work is to advance machine intelligence to serve humanity.
-My interests are the understanding, analysis, and improvement of LLMs/MLLMs and their applications in AI Healthcare and Visual Generation. 
+I was also selected for Tencent's "Project Up" Talent Program (青云计划).
+My interests are the fundamentals, analysis, and improvement of LLMs, with broad downstream applications in Healthcare and Visual Generation. 
+
 I am always open for research discussions and collaborations. If you are interested in discussing or collaborating, please feel free to contact me via email.
 
 
@@ -41,17 +41,17 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nn
 
 **Yucheng Zhou\***, Hao Li\*, Jianbing Shen.
 Condition Errors Refinement in Autoregressive Image Generation with Diffusion Loss.
-ICLR 2026.
+ICLR 2026 ([pdf](https://arxiv.org/pdf/2602.07022)).
 
 Han Song\*, **Yucheng Zhou\***, Jianbing Shen, Yu Cheng.
 From Broad Exploration to Stable Synthesis: Entropy-Guided Optimization for Autoregressive Image Generation.
-ICLR 2026.
+ICLR 2026 ([pdf](https://openreview.net/pdf?id=NCLjpR2MDq)).
 
-**Jiahao Yuan**, Zhiqing Cui, Hanqing Wang, Yuansheng Gao, **Yucheng Zhou†**, Usman Naseem.
+Jiahao Yuan, Zhiqing Cui, Hanqing Wang, Yuansheng Gao, **Yucheng Zhou†**, Usman Naseem.
 Kardia-R1: Unleashing LLMs to Reason toward Understanding and Empathy for Emotional Support via Rubric-as-Judge Reinforcement Learning.
 WWW 2026 ([pdf](https://arxiv.org/pdf/2512.01282), [project](https://github.com/JhCircle/Kardia-R1)).
 
-**He Hu**, Chiyuan Ma, Qianning Wang, Liu Lin, **Yucheng Zhou†**, Laizhong Cui†, Fei Ma†, Qi Tian.
+He Hu, Chiyuan Ma, Qianning Wang, Liu Lin, **Yucheng Zhou†**, Laizhong Cui, Fei Ma, Qi Tian.
 TheraMind: A Strategic and Adaptive Agent for Longitudinal Psychological Counseling.
 WWW 2026 ([pdf](https://arxiv.org/pdf/2510.25758), [project](https://0mwwm0.github.io/TheraMind/)).
 
