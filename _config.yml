@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yucheng Zhou"
   avatar           : "yczhou.png"
-  bio              : "State Key Lab of IOTSC,<br/> Faculty of Science and Technology,<br/> University of Macau"
+  bio              : "State Key Lab of IOTSC,<br/> University of Macau"
   location         : "Macau"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=nnbFqRAAAAAJ"
-  email            : "ycz@ieee.com"
+  email            : "yucheng.zhou.cs@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"ACoAAA3L678BwMQnxVRN_Jfc-DynOmiNwK1Wxzo"
-  orcid            : #"http://orcid.org/0000-0000-0000-0000"
+  linkedin         : "yucheng-zhou-1947941a4"
+  orcid            : "https://orcid.org/0009-0006-9883-5621"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "iyczhou"
   vine             :
   weibo            :
   xing             :
