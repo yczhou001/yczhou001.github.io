@@ -42,11 +42,11 @@ WWW 2026 ([pdf](https://arxiv.org/pdf/2512.01282), [project](https://github.com/
 
 He Hu, Chiyuan Ma, Qianning Wang, Liu Lin, **Yucheng Zhou†**, Laizhong Cui, Fei Ma, Qi Tian.
 TheraMind: A Strategic and Adaptive Agent for Longitudinal Psychological Counseling.
-WWW 2026 ([pdf](https://arxiv.org/pdf/2510.25758), [project](https://0mwwm0.github.io/TheraMind/)).
+WWW 2026 ([pdf](https://arxiv.org/pdf/2510.25758), [project](https://github.com/Emo-gml/TheraMind)).
 
 **Yucheng Zhou\***, Jihai Zhang\*, Guanjie Chen, Jianbing Shen, Yu Cheng. Less Is More: Vision Representation Compression for Efficient Video Generation with Large Language Models. AAAI 2026 ([pdf](https://openreview.net/pdf?id=S7yRfgmnpm)).
 
-Lingran Song, **Yucheng Zhou**, Jianbing Shen. Sim4Seg: Boosting Multimodal Multi-disease Medical Diagnosis Segmentation with Region-Aware Vision-Language Similarity Masks. AAAI 2026 ([pdf](https://arxiv.org/pdf/2511.06665))
+Lingran Song, **Yucheng Zhou**, Jianbing Shen. Sim4Seg: Boosting Multimodal Multi-disease Medical Diagnosis Segmentation with Region-Aware Vision-Language Similarity Masks. AAAI 2026 ([pdf](https://arxiv.org/pdf/2511.06665), [project](https://github.com/SLR567/Sim4Seg)
 
 
 ## 2025  <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📜</g-emoji>
