@@ -19,6 +19,7 @@ I am always open for research discussions and collaborations. If you are interes
 ## News <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji>
 
 * **[Ongoing]** I am currently on the job market and actively seeking full-time research scientist positions in large language models, multimodal learning, and world models. Please reach out if you would like to connect!
+* **[Feb. 2026]** Serving as an Area Chair for ACL 2026.
 * **[Jan. 2026]** Serving as an Area Chair for KDD 2026.
 * **[Jan. 2026]** Honored to receive the Guangdong–Hong Kong–Macao Greater Bay Area Taihu Scholarship.
 * **[Sep. 2025]** Joined Tencent as a Research Intern (Selected for Tencent's "Project Up" Talent Program - 青云计划).
