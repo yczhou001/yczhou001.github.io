@@ -24,9 +24,37 @@ Weigao Sun\*, Jiaxi Hu\*, **Yucheng Zhou\***, Jusen Du\*, Disen Lan\*, Kexin Wan
 
 ## 2026  <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📜</g-emoji>
 
+**Yucheng Zhou\***, Junwei Sheng\*, Qianning Wang, Jianbing Shen.
+Compatibility-Aware Dynamic Fine-Tuning for Large Language Models.
+ACL 2026.
+
+**Yucheng Zhou**, Jianbing Shen.
+Accelerating Training of Autoregressive Video Generation Models via Local Optimization with Representation Continuity.
+ACL 2026.
+
+**Yucheng Zhou**, Dubing Chen, Huan Zheng, Jianbing Shen.
+Multimodal Large Language Models for Multi-Subject In-Context Image Generation.
+ACL 2026.
+
+Chenglin Wang\*, **Yucheng Zhou\***, Shuang Chen, Tao Wang, Kai Zhang.
+LADR: Locality-Aware Dynamic Rescue for Efficient Text-to-Image Generation with Diffusion Large Language Models.
+ACL 2026 ([pdf](https://arxiv.org/pdf/2603.13450)).
+
+Hao Li\*, **Yucheng Zhou\***, Jianbing Shen.
+SmartDiffusion: Accelerating Diffusion LLMs via Token-Level Freezing.
+ACL 2026.
+
+Xiang Li, **Yucheng Zhou**, Xiangzhi Wei, Zesheng Shi, Haiyuan Wan, Gong Yifan, Fangming Liu, Jing Li.
+LLM Inductive Reasoning Through Multi-Agent Enhanced Monte Carlo Tree Search.
+ACL 2026.
+
 Hongji Yang, **Yucheng Zhou**, Wencheng Han, Runzhou Tao, Zhongying Qiu, Jianfei Yang, Jianbing Shen.
 HiCoGen: Hierarchical Compositional Text-to-Image Generation in Diffusion Models via Reinforcement Learning.
 CVPR 2026 ([pdf](https://arxiv.org/pdf/2511.19965)).
+
+Zhi Rao, **Yucheng Zhou**, Benjia Zhou, Yiqing Huang, Sergio Escalera, Jun Wan.
+RVLF: A Reinforcing Vision-Language Framework for Gloss-Free Sign Language Translation.
+CVPR 2026 ([pdf](https://arxiv.org/pdf/2512.07273)).
 
 **Yucheng Zhou\***, Hao Li\*, Jianbing Shen.
 Condition Errors Refinement in Autoregressive Image Generation with Diffusion Loss.
@@ -46,7 +74,7 @@ WWW 2026 ([pdf](https://arxiv.org/pdf/2510.25758), [project](https://github.com/
 
 **Yucheng Zhou\***, Jihai Zhang\*, Guanjie Chen, Jianbing Shen, Yu Cheng. Less Is More: Vision Representation Compression for Efficient Video Generation with Large Language Models. AAAI 2026 ([pdf](https://openreview.net/pdf?id=S7yRfgmnpm)).
 
-Lingran Song, **Yucheng Zhou**, Jianbing Shen. Sim4Seg: Boosting Multimodal Multi-disease Medical Diagnosis Segmentation with Region-Aware Vision-Language Similarity Masks. AAAI 2026 ([pdf](https://arxiv.org/pdf/2511.06665), [project](https://github.com/SLR567/Sim4Seg)
+Lingran Song, **Yucheng Zhou**, Jianbing Shen. Sim4Seg: Boosting Multimodal Multi-disease Medical Diagnosis Segmentation with Region-Aware Vision-Language Similarity Masks. AAAI 2026 ([pdf](https://arxiv.org/pdf/2511.06665), [project](https://github.com/SLR567/Sim4Seg)).
 
 
 ## 2025  <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📜</g-emoji>
