@@ -30,11 +30,11 @@ ACL 2026.
 
 **Yucheng Zhou**, Jianbing Shen.
 Accelerating Training of Autoregressive Video Generation Models via Local Optimization with Representation Continuity.
-ACL 2026.
+ACL 2026 ([pdf](https://arxiv.org/pdf/2604.07402)).
 
 **Yucheng Zhou**, Dubing Chen, Huan Zheng, Jianbing Shen.
 Multimodal Large Language Models for Multi-Subject In-Context Image Generation.
-ACL 2026.
+ACL 2026 ([pdf](https://arxiv.org/pdf/2604.07422)).
 
 Chenglin Wang\*, **Yucheng Zhou\***, Shuang Chen, Tao Wang, Kai Zhang.
 LADR: Locality-Aware Dynamic Rescue for Efficient Text-to-Image Generation with Diffusion Large Language Models.
