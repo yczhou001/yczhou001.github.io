@@ -8,6 +8,7 @@ author_profile: true
 Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nnbFqRAAAAAJ) ($^*$ Equal contribution; † Corresponding author)
 
 
+<!-- 
 ## Selected Preprint <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji>
 
 <u>**Yucheng Zhou**</u>, Huan Zheng, Dubing Chen, Hongji Yang, Wencheng Han, Jianbing Shen.  
@@ -25,6 +26,7 @@ Huan Zheng\*, <u>**Yucheng Zhou\***</u>, Tianyi Yan\*, Jiayi Su, Hongjun Chen, D
 Weigao Sun\*, Jiaxi Hu\*, <u>**Yucheng Zhou\***</u>, Jusen Du\*, Disen Lan\*, Kexin Wang\*, Tong Zhu\*, Xiaoye Qu\*, Yu Zhang, Xiaoyu Mo, Daizong Liu, Yuxuan Liang, Wenliang Chen, Guoqi Li, Yu Cheng.  
 *Speed always wins: A survey on efficient architectures for large language models.*  
 ([pdf](https://arxiv.org/pdf/2508.09834?), [project](https://github.com/weigao266/Awesome-Efficient-Arch))
+-->
 
 
 
