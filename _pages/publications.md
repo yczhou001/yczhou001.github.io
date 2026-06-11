@@ -12,7 +12,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nn
 
 *Compatibility-Aware Dynamic Fine-Tuning for Large Language Models.*  
 <u>**Yucheng Zhou\***</u>, Junwei Sheng\*, Qianning Wang, Jianbing Shen.  
-**ACL 2026**
+**ACL 2026** ([pdf](https://arxiv.org/pdf/2606.11206))
 
 *Accelerating Training of Autoregressive Video Generation Models via Local Optimization with Representation Continuity.*  
 <u>**Yucheng Zhou**</u>, Jianbing Shen.  
