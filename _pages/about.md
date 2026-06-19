@@ -35,4 +35,6 @@ I am always open for research discussions and collaborations. If you are interes
 
 
 
+<div style="width: 250px; margin: 0 auto;">
 <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=7JrFMlYYcrcb0JoEq_C0WCS83bGracM5EjosjJYo7g8"></script>
+</div>
