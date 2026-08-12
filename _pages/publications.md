@@ -40,7 +40,7 @@ Chenglin Wang\*, <u>**Yucheng Zhou\***</u>, Shuang Chen, Tao Wang, Kai Zhang.
 
 *LLM Inductive Reasoning Through Multi-Agent Enhanced Monte Carlo Tree Search.*  
 Xiang Li, <u>**Yucheng Zhou**</u>, Xiangzhi Wei, Zesheng Shi, Haiyuan Wan, Gong Yifan, Fangming Liu, Jing Li.  
-**ACL 2026**
+**ACL 2026** ([pdf](https://aclanthology.org/2026.findings-acl.1178.pdf), [project](https://github.com/SolarWindRider/MATSIR))
 
 *HiCoGen: Hierarchical Compositional Text-to-Image Generation in Diffusion Models via Reinforcement Learning.*  
 Hongji Yang, <u>**Yucheng Zhou**</u>, Wencheng Han, Runzhou Tao, Zhongying Qiu, Jianfei Yang, Jianbing Shen.  
