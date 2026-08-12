@@ -10,6 +10,18 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nn
 
 ## 2026  <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📜</g-emoji>
 
+*CARE: Causally-Aligned Reasoning Exploration for Medical Large Language Models.*  
+<u>**Yucheng Zhou\***</u>, Peng Luo\*, Qianning Wang, Chengzhong Xu, Jianbing Shen.  
+**ECCV 2026**
+
+*Clinical Cognition Alignment for Gastrointestinal Diagnosis with Multimodal LLMs.*  
+Huan Zheng\*, <u>**Yucheng Zhou\***</u>, Tianyi Yan, Dubing Chen, Hongbo Lu, Wenlong Liao, Tao He, Pai Peng, Jianbing Shen.  
+**ECCV 2026** ([pdf](https://arxiv.org/pdf/2603.20698))
+
+*FDR-Occ: Factorized Dense Routing for Full-Spectrum 3D Occupancy Prediction.*  
+Dubing Chen, Huan Zheng, Tianyi Yan, <u>**Yucheng Zhou**</u>, Runzhou Tao, Zhongying Qiu, Jianfei Yang, Jianbing Shen.  
+**ECCV 2026** ([pdf](https://arxiv.org/pdf/2607.03822))
+
 *Compatibility-Aware Dynamic Fine-Tuning for Large Language Models.*  
 <u>**Yucheng Zhou\***</u>, Junwei Sheng\*, Qianning Wang, Jianbing Shen.  
 **ACL 2026** ([pdf](https://arxiv.org/pdf/2606.11206))
@@ -53,6 +65,10 @@ Jiahao Yuan, Zhiqing Cui, Hanqing Wang, Yuansheng Gao, <u>**Yucheng Zhou†**</u
 *TheraMind: A Strategic and Adaptive Agent for Longitudinal Psychological Counseling.*  
 He Hu, Chiyuan Ma, Qianning Wang, Liu Lin, <u>**Yucheng Zhou†**</u>, Laizhong Cui, Fei Ma, Qi Tian.  
 **WWW 2026** ([pdf](https://arxiv.org/pdf/2510.25758), [project](https://github.com/Emo-gml/TheraMind))
+
+*EmoBench-M: Benchmarking Emotional Intelligence for Multimodal Large Language Models.*  
+He Hu, Lianzhong You, Hongbo Xu, Qianning Wang, Fei Richard Yu, Fei Ma, Zebang Cheng, Zheng Lian, <u>**Yucheng Zhou†**</u>, Laizhong Cui.  
+**ACMMM 2026** ([pdf](https://arxiv.org/pdf/2502.04424), [project](https://github.com/Emo-gml/EmoBench-M))
 
 *Less Is More: Vision Representation Compression for Efficient Video Generation with Large Language Models.*  
 <u>**Yucheng Zhou\***</u>, Jihai Zhang\*, Guanjie Chen, Jianbing Shen, Yu Cheng.  
