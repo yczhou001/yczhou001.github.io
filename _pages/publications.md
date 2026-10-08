@@ -10,6 +10,30 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=nn
 
 ## 2026  <g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📜</g-emoji>
 
+*Medical LLMs as Medical World Models: Unified Policy-Dynamics Learning with Test-Time Search.*  
+<u>**Yucheng Zhou\***</u>, Peng Luo\*, Jianbing Shen.  
+**NeurIPS 2026**
+
+*Med-Agentic: Distilling Agentic Medical Reasoning with Internalized Meta-Capabilities.*  
+<u>**Yucheng Zhou\***</u>, Junwei Sheng\*, Jianbing Shen.  
+**NeurIPS 2026**
+
+*Explicit Geometric Chain-of-Thought for Vision-Language-Action in Autonomous Driving.*  
+Xingtai Gui, <u>**Yucheng Zhou**</u>, Dongqian Guo, Jiahao Gong, Feiyang Tan, Jianbing Shen.  
+**NeurIPS 2026** ([pdf](https://arxiv.org/pdf/2610.10390), [project](https://github.com/TabGuigui/GeoCoTDrive))
+
+*Unify-Agent: A Unified Multimodal Agent for World-Grounded Image Synthesis.*  
+Shuang Chen, Quanxin Shou, Hangting Chen, <u>**Yucheng Zhou**</u>, Kaituo Feng, Wenbo Hu, Yi-Fan Zhang, Yunlong Lin, Wenxuan Huang, Mingyang Song, Dasen Dai, Bolin Jiang, Manyuan Zhang, Shi-Xue Zhang, Zhengkai Jiang, Lucas Wang, Zhao Zhong, Yu Cheng, Nanyun Peng.  
+**NeurIPS 2026** ([pdf](https://arxiv.org/pdf/2603.29620), [project](https://github.com/shawn0728/Unify-Agent))
+
+*World Models Meet Language Models: On the Complementarity of Concrete and Abstract Reasoning.*  
+<u>**Yucheng Zhou**</u>, Wei Tao, Yiwei Guo, Jianbing Shen.  
+**EMNLP 2026** ([pdf](https://arxiv.org/pdf/2606.03603), [project](https://github.com/yczhou001/PF-OPSD), [dataset](https://huggingface.co/datasets/YCZhou/vrqa_bench), [dataset](https://huggingface.co/datasets/YCZhou/openworld_qa))
+
+*Stable-MM-R1: Anchoring Multimodal Reasoning Dynamics via Entropy-Guided Stratification.*  
+Yimeng Ye, Shuang Chen, Wenxuan Huang, Manyuan Zhang, Kaituo Feng, Zhangquan Chen, Jiayu Chen, <u>**Yucheng Zhou**</u>, Yicheng Xiao, Zhiyuan Feng, Tianyu Shi.  
+**EMNLP 2026**
+
 *CARE: Causally-Aligned Reasoning Exploration for Medical Large Language Models.*  
 <u>**Yucheng Zhou\***</u>, Peng Luo\*, Qianning Wang, Chengzhong Xu, Jianbing Shen.  
 **ECCV 2026**
@@ -41,14 +65,6 @@ Chenglin Wang\*, <u>**Yucheng Zhou\***</u>, Shuang Chen, Tao Wang, Kai Zhang.
 *LLM Inductive Reasoning Through Multi-Agent Enhanced Monte Carlo Tree Search.*  
 Xiang Li, <u>**Yucheng Zhou**</u>, Xiangzhi Wei, Zesheng Shi, Haiyuan Wan, Gong Yifan, Fangming Liu, Jing Li.  
 **ACL 2026** ([pdf](https://aclanthology.org/2026.findings-acl.1178.pdf), [project](https://github.com/SolarWindRider/MATSIR))
-
-*World Models Meet Language Models: On the Complementarity of Concrete and Abstract Reasoning.*  
-<u>**Yucheng Zhou**</u>, Wei Tao, Yiwei Guo, Jianbing Shen.  
-**EMNLP 2026** ([pdf](https://arxiv.org/pdf/2606.03603), [project](https://github.com/yczhou001/PF-OPSD), [dataset](https://huggingface.co/datasets/YCZhou/vrqa_bench), [dataset](https://huggingface.co/datasets/YCZhou/openworld_qa))
-
-*Stable-MM-R1: Anchoring Multimodal Reasoning Dynamics via Entropy-Guided Stratification.*  
-Yimeng Ye, Shuang Chen, Wenxuan Huang, Manyuan Zhang, Kaituo Feng, Zhangquan Chen, Jiayu Chen, <u>**Yucheng Zhou**</u>, Yicheng Xiao, Zhiyuan Feng, Tianyu Shi.  
-**EMNLP 2026**
 
 *HiCoGen: Hierarchical Compositional Text-to-Image Generation in Diffusion Models via Reinforcement Learning.*  
 Hongji Yang, <u>**Yucheng Zhou**</u>, Wencheng Han, Runzhou Tao, Zhongying Qiu, Jianfei Yang, Jianbing Shen.  
